@@ -2,7 +2,11 @@
 # This file is distributed under the same license as the Plugins - All-in-One WP Migration - Stable (latest release) package.
 msgid ""
 msgstr ""
+<<<<<<< HEAD
 "PO-Revision-Date: 2017-08-02 20:36:09+0000\n"
+=======
+"PO-Revision-Date: 2017-07-23 09:30:11+0000\n"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,6 +15,7 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: Plugins - All-in-One WP Migration - Stable (latest release)\n"
 
+<<<<<<< HEAD
 #: lib/view/backups/index.php:60
 msgid "2GB+"
 msgstr "2GB+"
@@ -34,6 +39,9 @@ msgid "Archiving database...<br />%d%% complete"
 msgstr "Archivo de la base de datos...<br />%d%% completado."
 
 #: functions.php:1028
+=======
+#: functions.php:1002
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Unable to authenticate the secret key."
 msgstr "No se puede autentificar la clave secreta."
 
@@ -43,7 +51,11 @@ msgid "Restoring database...<br />%d%% complete"
 msgstr "Restauración completa de la base de datos...<br />%d%%"
 
 #: lib/model/export/class-ai1wm-export-database.php:61
+<<<<<<< HEAD
 #: lib/model/export/class-ai1wm-export-database.php:154
+=======
+#: lib/model/export/class-ai1wm-export-database.php:161
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Exporting database...<br />%d%% complete"
 msgstr "Exportar base de datos...<br />%d%% completa"
 
@@ -53,6 +65,7 @@ msgid "Checking extensions compatibility..."
 msgstr "Comprobación de compatibilidad de extensiones..."
 
 #: lib/model/import/class-ai1wm-import-database.php:622
+<<<<<<< HEAD
 msgid "Done restoring database."
 msgstr "Restaurada la base de datos..."
 
@@ -61,6 +74,16 @@ msgid "Monthly"
 msgstr "Mensual"
 
 #: lib/controller/class-ai1wm-main-controller.php:708
+=======
+msgid "Done restoring database..."
+msgstr "Restaurada la base de datos..."
+
+#: lib/controller/class-ai1wm-main-controller.php:711
+msgid "Monthly"
+msgstr "Mensual"
+
+#: lib/controller/class-ai1wm-main-controller.php:707
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Weekly"
 msgstr "Semanal"
 
@@ -77,8 +100,13 @@ msgid "Do <strong>not</strong> export must-use plugins (files)"
 msgstr "<strong>No</strong> exportar plugins de uso obligatorio (archivos)"
 
 #: lib/model/import/class-ai1wm-import-mu-plugins.php:43
+<<<<<<< HEAD
 msgid "Done activating mu-plugins."
 msgstr "mu-plugins activados."
+=======
+msgid "Done activating mu-plugins..."
+msgstr "mu-plugins activados..."
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #: lib/model/import/class-ai1wm-import-mu-plugins.php:31
 msgid "Activating mu-plugins..."
@@ -96,6 +124,13 @@ msgstr "Box"
 msgid "Do <strong>not</strong> export inactive themes (files)"
 msgstr "<strong>No</strong> exportar temas inactivos (archivos)"
 
+<<<<<<< HEAD
+=======
+#: lib/view/backups/index.php:57
+msgid "The file is too large for your hosting plan."
+msgstr "El archivo es demasiado grande para tu plan de alojamiento."
+
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: lib/view/export/advanced-settings.php:85
 msgid "Do <strong>not</strong> replace email domain (sql)"
 msgstr "<strong>No</strong> reemplazar el dominio de correo electrónico (sql)"
@@ -173,8 +208,13 @@ msgid "OneDrive"
 msgstr "OneDrive"
 
 #: lib/model/import/class-ai1wm-import-blogs.php:124
+<<<<<<< HEAD
 msgid "Done preparing blogs."
 msgstr "Preparar blog realizado."
+=======
+msgid "Done preparing blogs..."
+msgstr "Preparar blogs realizado..."
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #: lib/model/import/class-ai1wm-import-blogs.php:113
 msgid "Unable to import <strong>WordPress Network</strong> into WordPress <strong>Single</strong> site."
@@ -194,8 +234,13 @@ msgstr "Preparando blogs..."
 
 #: lib/model/export/class-ai1wm-export-resolve.php:37
 #: lib/model/import/class-ai1wm-import-resolve.php:37
+<<<<<<< HEAD
 msgid "Done resolving URL address."
 msgstr "Resolver la dirección URL realizado."
+=======
+msgid "Done resolving URL address..."
+msgstr "Resolver la dirección URL realizado..."
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #: lib/model/export/class-ai1wm-export-resolve.php:31
 #: lib/model/import/class-ai1wm-import-resolve.php:31
@@ -272,7 +317,11 @@ msgstr "Comprobar actualizaciones"
 
 #: lib/view/main/get-support.php:1
 msgid "Get Support"
+<<<<<<< HEAD
 msgstr "Obtén Soporte"
+=======
+msgstr "Obtén soporte"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #. Author of the plugin/theme
 msgid "ServMask"
@@ -282,10 +331,17 @@ msgstr "ServMask"
 msgid "Migration tool for all your blog data. Import or Export your blog content with a single click."
 msgstr "Herramienta de migración para todos los datos de tu blog. Importa o Exporta el contenido de tu blog con un solo clic."
 
+<<<<<<< HEAD
 #. #-#-#-#-#  all-in-one-wp-migration-code.pot (All-in-One WP Migration 6.55) 
 #. #-#-#-#-#
 #. Plugin URI of the plugin/theme
 #. #-#-#-#-#  all-in-one-wp-migration-code.pot (All-in-One WP Migration 6.55) 
+=======
+#. #-#-#-#-#  all-in-one-wp-migration-code.pot (All-in-One WP Migration 6.54) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  all-in-one-wp-migration-code.pot (All-in-One WP Migration 6.54) 
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #. #-#-#-#-#
 #. Author URI of the plugin/theme
 msgid "https://servmask.com/"
@@ -479,11 +535,16 @@ msgstr "Tengo ideas para mejorar este plugin"
 msgid "I would like to review this plugin"
 msgstr "Me gustaría valorar este plugin"
 
+<<<<<<< HEAD
 #: lib/view/backups/index.php:126 lib/view/export/index.php:60
+=======
+#: lib/view/backups/index.php:128 lib/view/export/index.php:60
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: lib/view/import/index.php:57
 msgid "Leave Feedback"
 msgstr "Deja un comentario"
 
+<<<<<<< HEAD
 #: lib/view/backups/index.php:89
 msgid "Create backup"
 msgstr "Crear backup"
@@ -505,6 +566,29 @@ msgid "Download"
 msgstr "Bajar"
 
 #: lib/view/backups/index.php:56
+=======
+#: lib/view/backups/index.php:91
+msgid "Create backup"
+msgstr "Crear backup"
+
+#: lib/view/backups/index.php:87
+msgid "There are no backups available at this time, why not create a new one?"
+msgstr "No hay copias de seguridad disponibles en este momento, ¿por qué no crear ahora una nueva?"
+
+#: lib/view/backups/index.php:77
+msgid "Delete"
+msgstr "Borrar"
+
+#: lib/view/backups/index.php:73
+msgid "Restore"
+msgstr "Restaurar"
+
+#: lib/view/backups/index.php:69
+msgid "Download"
+msgstr "Bajar"
+
+#: lib/view/backups/index.php:61
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "ago"
 msgstr "hace"
 
@@ -537,13 +621,34 @@ msgstr "¡Tus datos se han importado correctamente!"
 msgid "Restoring %d files...<br />%d%% complete"
 msgstr "Restauración %d archivos ... <br />%d%% completada"
 
+<<<<<<< HEAD
+=======
+#: lib/model/import/class-ai1wm-import-validate.php:73
+msgid "Unable to get the file size of <strong>%s</strong>"
+msgstr "No se puede obtener el tamaño de archivo de <strong>%s</strong>"
+
+#: lib/model/import/class-ai1wm-import-validate.php:115
+msgid "Invalid archive file. It should contain <strong>package.json</strong> file."
+msgstr "Archivo no válido. Debe contener el archivo <strong>package.json</strong>."
+
+#: lib/model/import/class-ai1wm-import-validate.php:45
+msgid "Unpacking archive..."
+msgstr "Desempaquetando el archivo..."
+
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: lib/model/export/class-ai1wm-export-download.php:31
 msgid "Renaming exported file..."
 msgstr "Renombrando el archivo exportado..."
 
+<<<<<<< HEAD
 #: lib/model/export/class-ai1wm-export-database.php:131
 msgid "Done exporting database."
 msgstr "Exportar la base de datos realizado."
+=======
+#: lib/model/export/class-ai1wm-export-database.php:138
+msgid "Done exporting database..."
+msgstr "Exportar la base de datos realizado..."
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #: lib/model/export/class-ai1wm-export-content.php:69
 #: lib/model/export/class-ai1wm-export-content.php:105
@@ -568,12 +673,18 @@ msgstr "Realizada la creación de un archivo vacío."
 msgid "Creating an empty archive..."
 msgstr "Creando un archivo vacío..."
 
+<<<<<<< HEAD
 #: lib/controller/class-ai1wm-main-controller.php:400
 #: lib/controller/class-ai1wm-main-controller.php:401
+=======
+#: lib/controller/class-ai1wm-main-controller.php:399
+#: lib/controller/class-ai1wm-main-controller.php:400
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: lib/view/backups/index.php:31
 msgid "Backups"
 msgstr "Copias de seguridad"
 
+<<<<<<< HEAD
 #: lib/controller/class-ai1wm-main-controller.php:390
 #: lib/controller/class-ai1wm-main-controller.php:391
 msgid "Import"
@@ -581,6 +692,15 @@ msgstr "Importar"
 
 #: lib/controller/class-ai1wm-main-controller.php:380
 #: lib/controller/class-ai1wm-main-controller.php:381
+=======
+#: lib/controller/class-ai1wm-main-controller.php:389
+#: lib/controller/class-ai1wm-main-controller.php:390
+msgid "Import"
+msgstr "Importar"
+
+#: lib/controller/class-ai1wm-main-controller.php:379
+#: lib/controller/class-ai1wm-main-controller.php:380
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Export"
 msgstr "Exportar"
 

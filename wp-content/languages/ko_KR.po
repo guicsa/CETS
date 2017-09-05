@@ -2,7 +2,11 @@
 # This file is distributed under the same license as the WordPress - 4.8.x package.
 msgid ""
 msgstr ""
+<<<<<<< HEAD
 "PO-Revision-Date: 2017-07-28 10:48:16+0000\n"
+=======
+"PO-Revision-Date: 2017-06-19 07:08:35+0000\n"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36,6 +40,7 @@ msgstr ","
 msgid "number_format_decimal_point"
 msgstr "."
 
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-text.php:366
 msgid "This widget may have contained code that may work better in the new &#8220;Custom HTML&#8221; widget. If you haven&#8217;t yet, how about trying that widget instead?"
 msgstr "이 위젯에는 새로운 &#8220;사용자 정의 HTML&#8221; 위젯에서 더 잘 작동하는 코드가 포함돼있을 수 있습니다. 사용한 적이 없다면 시도해보시는 것이 어떤가요?"
@@ -80,6 +85,8 @@ msgstr "사용자 정의 HTML"
 msgid "Arbitrary HTML code."
 msgstr "임의의 HTML 코드."
 
+=======
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:141
 msgid "Show tag counts"
 msgstr "태그 수 보이기"
@@ -89,7 +96,11 @@ msgid "%s item"
 msgid_plural "%s items"
 msgstr[0] "%s 아이템"
 
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-media.php:68
+=======
+#: wp-includes/widgets/class-wp-widget-media.php:60
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "label for button in the media widget"
 msgid "Add Media"
 msgstr "미디어 추가"
@@ -109,7 +120,11 @@ msgctxt "label for button in the audio widget"
 msgid "Add Audio"
 msgstr "오디오 추가"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3122
+=======
+#: wp-includes/media.php:3118
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "(no author)"
 msgstr "(글쓴이 없음)"
 
@@ -171,6 +186,7 @@ msgstr "네트워크가 현재 회원가입을 허용하지 않고 있습니다.
 msgid "Greetings Network Administrator!"
 msgstr "네트워크 관리자님 안녕하세요!"
 
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-media.php:151
 msgid "Title for the widget"
 msgstr "위젯에 대한 타이틀"
@@ -188,16 +204,40 @@ msgid "Looks like this isn&#8217;t the correct kind of file. Please link to an a
 msgstr "올바른 파일이 아닌 것 같습니다. 적절한 파일로 링크를 변경하세요."
 
 #: wp-includes/widgets/class-wp-widget-media.php:79
+=======
+#: wp-includes/widgets/class-wp-widget-media.php:137
+msgid "Title for the widget"
+msgstr "위젯에 대한 타이틀"
+
+#: wp-includes/widgets/class-wp-widget-media.php:131
+msgid "URL to the media file"
+msgstr "미디어 파일에 대한 URL"
+
+#: wp-includes/widgets/class-wp-widget-media.php:124
+msgid "Attachment post ID"
+msgstr "첨부 글 ID"
+
+#: wp-includes/widgets/class-wp-widget-media.php:72
+msgid "Looks like this isn&#8217;t the correct kind of file. Please link to an appropriate file instead."
+msgstr "올바른 파일이 아닌 것 같습니다. 적절한 파일로 링크를 변경하세요."
+
+#: wp-includes/widgets/class-wp-widget-media.php:71
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Media Widget"
 msgstr "미디어 위젯"
 
 #. translators: %d is widget count
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-media.php:78
+=======
+#: wp-includes/widgets/class-wp-widget-media.php:70
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Media Widget (%d)"
 msgid_plural "Media Widget (%d)"
 msgstr[0] "미디어 위젯(%d)"
 
 #. translators: placeholder is URL to media library
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-media.php:74
 msgid "We can&#8217;t find that file. Check your <a href=\"%s\">media library</a> and make sure it wasn&#8217;t deleted."
 msgstr "해당 파일을 찾을 수 없습니다. <a href=\"%s\">미디어 라이브러리</a>에서 삭제되지 않았는지 확인해보세요."
@@ -207,20 +247,43 @@ msgid "Add to Widget"
 msgstr "위젯에 추가하기"
 
 #: wp-includes/widgets/class-wp-widget-media.php:70
+=======
+#: wp-includes/widgets/class-wp-widget-media.php:66
+msgid "We can&#8217;t find that file. Check your <a href=\"%s\">media library</a> and make sure it wasn&#8217;t deleted."
+msgstr "해당 파일을 찾을 수 없습니다. <a href=\"%s\">미디어 라이브러리</a>에서 삭제되지 않았는지 확인해보세요."
+
+#: wp-includes/widgets/class-wp-widget-media.php:63
+msgid "Add to Widget"
+msgstr "위젯에 추가하기"
+
+#: wp-includes/widgets/class-wp-widget-media.php:62
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Media"
 msgstr "미디어 편집"
 
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-media.php:69
+=======
+#: wp-includes/widgets/class-wp-widget-media.php:61
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Replace Media"
 msgstr "미디어 교체"
 
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-media.php:67
 msgid "No media selected"
 msgstr "미디어가 선택되지 않았습니다"
 
 #: wp-includes/widgets/class-wp-widget-media.php:59
+=======
+#: wp-includes/widgets/class-wp-widget-media.php:59
+msgid "No media selected"
+msgstr "미디어가 선택되지 않았습니다"
+
+#: wp-includes/widgets/class-wp-widget-media.php:51
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "A media item."
 msgstr "미디어 아이템."
 
@@ -299,7 +362,11 @@ msgstr "이미지 표시."
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:198
 #: wp-includes/widgets/class-wp-widget-media-image.php:325
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-media-video.php:237
+=======
+#: wp-includes/widgets/class-wp-widget-media-video.php:241
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Unable to preview media due to an unknown error."
 msgstr "알 수 없는 오류로 인해 미디어를 미리보기 할 수 없습니다."
 
@@ -406,22 +473,38 @@ msgid "Updated!"
 msgstr "업데이트 됨!"
 
 #. translators: 1: parameter, 2: maximum number
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1127
+=======
+#: wp-includes/rest-api.php:1122
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s must be less than or equal to %2$d"
 msgstr "%1$s은(는) %2$d와(과) 같거나 작아야 합니다"
 
 #. translators: 1: parameter, 2: maximum number
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1124
+=======
+#: wp-includes/rest-api.php:1119
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s must be less than %2$d"
 msgstr "%1$s은(는) %2$d보다 작아야 합니다"
 
 #. translators: 1: parameter, 2: minimum number
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1119
+=======
+#: wp-includes/rest-api.php:1114
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s must be greater than or equal to %2$d"
 msgstr "%1$s은(는) %2$d와(과) 같거나 커야 합니다"
 
 #. translators: 1: parameter, 2: minimum number
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1116
+=======
+#: wp-includes/rest-api.php:1111
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s must be greater than %2$d"
 msgstr "%1$s은(는) %2$d보다 커야 합니다"
 
@@ -495,7 +578,11 @@ msgstr "특성 이미지"
 msgid "%1$s is deprecated. The callback from %2$s is used instead."
 msgstr "%1$s은(는) 폐기 예정입니다. 대신 %2$s로(으로)부터 콜백이 사용됩니다."
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3523 wp-includes/script-loader.php:80
+=======
+#: wp-includes/media.php:3519 wp-includes/script-loader.php:80
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid ""
 "You are about to permanently delete these items from your site.\n"
 "This action cannot be undone.\n"
@@ -505,7 +592,11 @@ msgstr ""
 "이 작업은 취소할 수 없습니다.\n"
 "중지하려면 '취소'를, 삭제하려면 'OK'를 클릭하세요."
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3522
+=======
+#: wp-includes/media.php:3518
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid ""
 "You are about to permanently delete this item from your site.\n"
 "This action cannot be undone.\n"
@@ -516,7 +607,11 @@ msgstr ""
 "중지하려면 '취소'를, 삭제하려면 'OK'를 클릭하세요."
 
 #. translators: 1: suggested width number, 2: suggested height number.
+<<<<<<< HEAD
 #: wp-includes/media-template.php:240 wp-includes/media.php:3572
+=======
+#: wp-includes/media-template.php:240 wp-includes/media.php:3568
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
 msgstr "제안된 이미지 크기: %1$s x %2$s 픽셀."
 
@@ -583,21 +678,34 @@ msgstr "사용할 oEmbed 포맷."
 msgid "The URL of the resource for which to fetch oEmbed data."
 msgstr "oEmbed 데이터를 가져올 리소스 URL."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1143
+=======
+#: wp-includes/class-wp-editor.php:1126
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Short for blue in RGB"
 msgid "B"
 msgstr "B"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1142
+=======
+#: wp-includes/class-wp-editor.php:1125
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Short for green in RGB"
 msgid "G"
 msgstr "G"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1141
+=======
+#: wp-includes/class-wp-editor.php:1124
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Short for red in RGB"
 msgid "R"
 msgstr "R"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1099
 msgid "Insert/edit media"
 msgstr "미디어 삽입/편집"
@@ -615,39 +723,82 @@ msgid "Date/time"
 msgstr "날짜/시간"
 
 #: wp-includes/class-wp-editor.php:1069
+=======
+#: wp-includes/class-wp-editor.php:1082
+msgid "Insert/edit media"
+msgstr "미디어 삽입/편집"
+
+#: wp-includes/class-wp-editor.php:1079
+msgid "Insert/edit code sample"
+msgstr "코드 예제 삽입/편집"
+
+#: wp-includes/class-wp-editor.php:1078
+msgid "Table of Contents"
+msgstr "목차"
+
+#: wp-includes/class-wp-editor.php:1076
+msgid "Date/time"
+msgstr "날짜/시간"
+
+#: wp-includes/class-wp-editor.php:1052
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Id for link anchor (TinyMCE)"
 msgid "Id"
 msgstr "Id"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1068
 msgid "Id should start with a letter, followed only by letters, numbers, dashes, dots, colons or underscores."
 msgstr "ID는 글자로 시작하며 글자, 숫자 대시, 점, 콜론 밑줄을 사용할 수 있습니다."
 
 #: wp-includes/class-wp-customize-widgets.php:791
+=======
+#: wp-includes/class-wp-editor.php:1051
+msgid "Id should start with a letter, followed only by letters, numbers, dashes, dots, colons or underscores."
+msgstr "ID는 글자로 시작하며 글자, 숫자 대시, 점, 콜론 밑줄을 사용할 수 있습니다."
+
+#: wp-includes/class-wp-customize-widgets.php:777
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "You can navigate to other pages on your site while using the Customizer to view and edit the widgets displayed on those pages."
 msgstr "페이지에서 표시되는 위젯을 보거나 편집하기 위해 사용자 정의하기를 사용하면서 사이트의 다른 페이지로 이동할 수 있습니다."
 
 #. translators: placeholder is the total number of widget areas registered
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:770
+=======
+#: wp-includes/class-wp-customize-widgets.php:756
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Your theme has %s widget area, but this particular page doesn&#8217;t display it."
 msgid_plural "Your theme has %s widget areas, but this particular page doesn&#8217;t display them."
 msgstr[0] "테마에 %s 위젯 영역이 있지만 이 특정 페이지는 이를 표시하지 않습니다."
 
 #. translators: placeholder is the total number of widget areas registered
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:765
+=======
+#: wp-includes/class-wp-customize-widgets.php:751
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Your theme has 1 widget area, but this particular page doesn&#8217;t display it."
 msgstr "테마에 1개의 위젯 영역이 있지만 이 특정 페이지는 이를 표시하지 않습니다."
 
 #. translators: placeholder is the number of other widget areas registered but
 #. not rendered
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:753
+=======
+#: wp-includes/class-wp-customize-widgets.php:739
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Your theme has %s other widget area, but this particular page doesn&#8217;t display it."
 msgid_plural "Your theme has %s other widget areas, but this particular page doesn&#8217;t display them."
 msgstr[0] "테마가 %s개의 다른 위젯 영역이 있지만 이 특정 페이지는 이를 표시하지 않습니다."
 
 #. translators: placeholder is the number of other widget areas registered but
 #. not rendered
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:745
+=======
+#: wp-includes/class-wp-customize-widgets.php:731
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Your theme has 1 other widget area, but this particular page doesn&#8217;t display it."
 msgstr "테마가 1개의 다른 위젯 영역이 있지만 이 특정 페이지는 이를 표시하지 않습니다."
 
@@ -879,7 +1030,11 @@ msgid "Invalid slug."
 msgstr "유효하지 않은 슬러그."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:606
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1100
+=======
+#: wp-includes/rest-api.php:1095
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Invalid email address."
 msgstr "유효하지 않은 이메일 주소."
 
@@ -896,7 +1051,11 @@ msgstr "유효하지 않은 JSONP 콜백 함수."
 msgid "Invalid page template."
 msgstr "유효하지 않은 페이지 템플릿."
 
+<<<<<<< HEAD
 #: wp-includes/post.php:3136 wp-includes/rest-api.php:1094
+=======
+#: wp-includes/post.php:3136 wp-includes/rest-api.php:1089
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Invalid date."
 msgstr "유효하지 않은 날짜."
 
@@ -908,52 +1067,92 @@ msgstr "비디오 실행중."
 msgid "Video is paused."
 msgstr "비디오 정지됨."
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1966
+=======
+#: wp-includes/theme.php:1962
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Archives"
 msgstr "글 보관함"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2088
+=======
+#: wp-includes/theme.php:2084
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts."
 msgstr "이것은 홈페이지 영역의 예제입니다. 홈페이지 영역에서는 최근 글을 보여주는 블로그 글 목록 페이지와 홈페이지 자체를 제외한 어떤 페이지라도 선택할 수 있습니다."
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2082
+=======
+#: wp-includes/theme.php:2078
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "News"
 msgstr "뉴스"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2074
+=======
+#: wp-includes/theme.php:2070
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form."
 msgstr "이것은 주소와 전화번호 등 기본적인 컨택트 정보가 있는 페이지입니다. 컨택트 폼을 추가하려면 플러그인을 설치하면 됩니다."
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2069
+=======
+#: wp-includes/theme.php:2065
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe."
 msgstr "자신이나 자신의 작품을 이곳에 소개하고 싶어하는 예술가일 수도 있으며 임무가 있는 비지니스 일 수도 있습니다."
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2064
+=======
+#: wp-includes/theme.php:2060
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Welcome to your site! This is your homepage, which is what most visitors will see when they come to your site for the first time."
 msgstr "사이트에 오신 것을 환영합니다! 이것은 홈페이지이며 대부분의 방문자들이 사이트를 처음 방문할 때 보는 곳입니다."
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1981
+=======
+#: wp-includes/theme.php:1977
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Recent Posts"
 msgstr "최근 글"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1978
+=======
+#: wp-includes/theme.php:1974
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Recent Comments"
 msgstr "최근 댓글"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1975
+=======
+#: wp-includes/theme.php:1971
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Meta"
 msgstr "메타"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1969
+=======
+#: wp-includes/theme.php:1965
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Calendar"
 msgstr "달력"
@@ -1018,37 +1217,65 @@ msgstr "죄송합니다. 새 텀을 생성할 권한이 없습니다."
 msgid "Sorry, you are not allowed to read comments without a post."
 msgstr "죄송합니다. 글이 없는 댓글을 읽을 권한이 없습니다."
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2056
+=======
+#: wp-includes/theme.php:2052
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "YouTube"
 msgstr "유투브"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2044
+=======
+#: wp-includes/theme.php:2040
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Pinterest"
 msgstr "핀터레스트"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2032
+=======
+#: wp-includes/theme.php:2028
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "GitHub"
 msgstr "깃허브"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2028
+=======
+#: wp-includes/theme.php:2024
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Foursquare"
 msgstr "포스퀘어"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2040
+=======
+#: wp-includes/theme.php:2036
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "LinkedIn"
 msgstr "링크트인"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1961
+=======
+#: wp-includes/theme.php:1959
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "This may be a good place to introduce yourself and your site or include some credits."
 msgstr "이곳은 자신과 자신의 사이트를 소개하거나 몇 가지 크레딧을 추가할 수 있는 적합한 장소입니다."
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1960
+=======
+#: wp-includes/theme.php:1958
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "About This Site"
 msgstr "이 사이트 소개"
@@ -1098,52 +1325,92 @@ msgstr "비디오 선택되지 않음"
 msgid "Choose Video"
 msgstr "비디오 선택"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2087
+=======
+#: wp-includes/theme.php:2083
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "A homepage section"
 msgstr "홈페이지 영역"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2078
+=======
+#: wp-includes/theme.php:2074
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Blog"
 msgstr "블로그"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2020
+=======
+#: wp-includes/theme.php:2016
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Email"
 msgstr "이메일"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2036
+=======
+#: wp-includes/theme.php:2032
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Instagram"
 msgstr "인스타그램"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2073
+=======
+#: wp-includes/theme.php:2069
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Contact"
 msgstr "문의하기"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2068
+=======
+#: wp-includes/theme.php:2064
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "About"
 msgstr "소개"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1990 wp-includes/theme.php:2063
+=======
+#: wp-includes/theme.php:1986 wp-includes/theme.php:2059
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Home"
 msgstr "홈"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2048
+=======
+#: wp-includes/theme.php:2044
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Twitter"
 msgstr "트위터"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2024
+=======
+#: wp-includes/theme.php:2020
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Facebook"
 msgstr "페이스북"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2052
+=======
+#: wp-includes/theme.php:2048
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Yelp"
 msgstr "Yelp"
@@ -1173,12 +1440,20 @@ msgctxt "Theme starter content"
 msgid "New York, NY 10001"
 msgstr "서울시, 12345"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1972
+=======
+#: wp-includes/theme.php:1968
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Categories"
 msgstr "카테고리"
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:1984
+=======
+#: wp-includes/theme.php:1980
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Search"
 msgstr "검색"
@@ -1373,39 +1648,69 @@ msgid "Item selected."
 msgstr "아이템 선택됨."
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1148
+=======
+#: wp-includes/rest-api.php:1143
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s must be between %2$d (inclusive) and %3$d (inclusive)"
 msgstr "%1$s은(는) %2$d (포함)과 %3$d (포함) 사이여야 합니다"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1143
+=======
+#: wp-includes/rest-api.php:1138
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s must be between %2$d (exclusive) and %3$d (inclusive)"
 msgstr "%1$s은(는) %2$d (제외)과 %3$d (포함) 사이여야 합니다"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1138
+=======
+#: wp-includes/rest-api.php:1133
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s must be between %2$d (inclusive) and %3$d (exclusive)"
 msgstr "%1$s은(는) %2$d (포함)과 %3$d (제외) 사이여야 합니다"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1133
+=======
+#: wp-includes/rest-api.php:1128
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s must be between %2$d (exclusive) and %3$d (exclusive)"
 msgstr "%1$s은(는) %2$d (제외)과 %3$d (제외) 사이여야 합니다"
 
 #. translators: %s: IP address
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1106
+=======
+#: wp-includes/rest-api.php:1101
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%s is not a valid IP address."
 msgstr "%s은(는) 유효한 IP 주소가 아닙니다."
 
 #. translators: 1: parameter, 2: type name
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1054 wp-includes/rest-api.php:1072
 #: wp-includes/rest-api.php:1077 wp-includes/rest-api.php:1082
 #: wp-includes/rest-api.php:1087
+=======
+#: wp-includes/rest-api.php:1049 wp-includes/rest-api.php:1067
+#: wp-includes/rest-api.php:1072 wp-includes/rest-api.php:1077
+#: wp-includes/rest-api.php:1082
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s is not of type %2$s."
 msgstr "%1$s은(는) 타입 %2$s이(가) 아닙니다."
 
 #. translators: 1: parameter, 2: list of valid values
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:1066
+=======
+#: wp-includes/rest-api.php:1061
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s is not one of %2$s."
 msgstr "%1$s은(는) %2$s중 하나가 아닙니다."
 
@@ -2223,7 +2528,11 @@ msgstr "사이트의 같은 타임존에 있는 도시."
 msgid "Site title."
 msgstr "사이트 타이틀."
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3535
+=======
+#: wp-includes/media.php:3531
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Search media items..."
 msgstr "미디어 아이템 검색..."
 
@@ -2307,13 +2616,22 @@ msgstr "죄송합니다. 해당 텀을 생성할 수 없습니다."
 msgid "Sorry, your entry could not be posted."
 msgstr "죄송합니다. 항목을 발행할 수 없습니다."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:799
 #: wp-includes/class-wp-customize-widgets.php:854
+=======
+#: wp-includes/class-wp-customize-widgets.php:785
+#: wp-includes/class-wp-customize-widgets.php:840
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "No widgets found."
 msgstr "위젯을 찾을 수 없습니다."
 
 #. translators: placeholder is the count for the number of widgets found
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:798
+=======
+#: wp-includes/class-wp-customize-widgets.php:784
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Number of widgets found: %d"
 msgstr "찾은 위젯 수: %d"
 
@@ -2502,7 +2820,11 @@ msgstr "안녕하세요. %s님"
 msgid "Edit selected menu"
 msgstr "선택한 메뉴 편집"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1276
+=======
+#: wp-includes/class-wp-editor.php:1259
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Warning: the link has been inserted but may have errors. Please test it."
 msgstr "주의: 링크가 추가됐지만 에러가 있을 수 있으니 테스트 해주세요."
 
@@ -2510,7 +2832,11 @@ msgstr "주의: 링크가 추가됐지만 에러가 있을 수 있으니 테스�
 msgid "Search Results"
 msgstr "검색 결과"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1231
+=======
+#: wp-includes/class-wp-editor.php:1214
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Rich Text Area. Press Control-Option-H for help."
 msgstr "리치 텍스트 영역. 도움말은 Ctrl-Option-H 키를 누르세요."
 
@@ -2555,7 +2881,11 @@ msgstr "볼륨을 높이거나 줄이려면 상/하 방향키를 사용하세요
 msgid "Inexistent terms."
 msgstr "존재하지 않는 텀(term)."
 
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:1970 wp-includes/taxonomy.php:2596
+=======
+#: wp-includes/taxonomy.php:1967 wp-includes/taxonomy.php:2593
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "A name is required for this term."
 msgstr "이 텀(term)의 이름은 필수입니다."
 
@@ -2781,7 +3111,11 @@ msgstr "다음 사용자 비밀번호 변경됨: %s"
 msgid "[%s] Password Changed"
 msgstr "[%s] 비밀번호 변경됨"
 
+<<<<<<< HEAD
 #: wp-includes/rest-api/class-wp-rest-server.php:922
+=======
+#: wp-includes/rest-api/class-wp-rest-server.php:908
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/script-loader.php:132 wp-includes/script-loader.php:517
 msgid "Sorry, you are not allowed to do that."
 msgstr "죄송하지만, 실행 권한이 없습니다."
@@ -2881,7 +3215,11 @@ msgstr "죄송하지만, 이 사이트를 사용자 정의할 권한이 없습�
 msgid "Do not pass %1$s tags to %2$s."
 msgstr "%1$s 태그를 %2$s(으)로 패스하지마세요."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1257
+=======
+#: wp-includes/class-wp-editor.php:1240
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Link options"
 msgstr "링크 옵션"
 
@@ -2903,7 +3241,11 @@ msgstr "이미지 메타를 제거하기 위해 %s이(가) 필요합니다."
 msgid "Plugin details"
 msgstr "플러그인 상세"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3536
+=======
+#: wp-includes/media.php:3532
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "No media files found."
 msgstr "미디어 파일을 찾을 수 없습니다."
 
@@ -2945,7 +3287,11 @@ msgstr "상수 %1$s은(는) <strong>폐기 예정입니다</strong>. 서브도�
 msgid "Removing %1$s manually will cause PHP warnings. Use the %2$s filter instead."
 msgstr "%1$s을 수동으로 제거하면 PHP 경고가 발생합니다. 대신 %2$s 필터를 사용하세요."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1284
+=======
+#: wp-includes/class-wp-editor.php:1267
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "The next group of formatting shortcuts are applied as you type or when you insert them around plain text in the same paragraph. Press Escape or the Undo button to undo."
 msgstr "포맷 단축키의 다음 그룹은 글자를 입력하거나 또는 같은 문단에서 단순 글자 주위에 삽입할 때 적용됩니다. 취소하려면 Esc를 누르거나 되돌리기 버튼을 클릭하세요."
 
@@ -3112,7 +3458,11 @@ msgstr "<strong>에러</strong>: 이름이 너무 깁니다."
 msgid "Logo"
 msgstr "로고"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1255
+=======
+#: wp-includes/class-wp-editor.php:1238
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Paste URL or type to search"
 msgstr "URL을 붙여넣거나 글자를 입력해 검색하세요"
 
@@ -3514,21 +3864,34 @@ msgid "Invalid shortcode name: %1$s. Do not use spaces or reserved characters: %
 msgstr "유효하지 않은 단축코드 이름: %s. 빈 스페이스 또는 유보된 문자( & / < > [ ] )를 사용하지 마세요."
 
 #. translators: 1: function name, 2: WordPress version number
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:505 wp-includes/rest-api.php:529
+=======
+#: wp-includes/rest-api.php:500 wp-includes/rest-api.php:524
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s (since %2$s; no alternative available)"
 msgstr "%1$s (%2$s 이후; 대체 수단 없음)"
 
 #. translators: 1: function name, 2: WordPress version number, 3: error message
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:526
 msgid "%1$s (since %2$s; %3$s)"
 msgstr "%1$s (%2$s 이후; %3$s)"
 
 #: wp-includes/rest-api.php:749
+=======
+#: wp-includes/rest-api.php:521
+msgid "%1$s (since %2$s; %3$s)"
+msgstr "%1$s (%2$s 이후; %3$s)"
+
+#: wp-includes/rest-api.php:744
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Cookie nonce is invalid"
 msgstr "Cookie nonce가 유효하지 않습니다"
 
 #. translators: 1: function name, 2: WordPress version number, 3: new function
 #. name
+<<<<<<< HEAD
 #: wp-includes/rest-api.php:502
 msgid "%1$s (since %2$s; use %3$s instead)"
 msgstr "%1$s (%2$s 버전 이후로; %3$s 로 대치)"
@@ -3542,6 +3905,21 @@ msgid "No route was found matching the URL and request method"
 msgstr "URL과 요청 방법이 일치하는 루트를 찾을 수 없습니다"
 
 #: wp-includes/rest-api/class-wp-rest-server.php:865
+=======
+#: wp-includes/rest-api.php:497
+msgid "%1$s (since %2$s; use %3$s instead)"
+msgstr "%1$s (%2$s 버전 이후로; %3$s 로 대치)"
+
+#: wp-includes/rest-api/class-wp-rest-server.php:1062
+msgid "The specified namespace could not be found."
+msgstr "지정된 네임스페이스를 찾을 수 없습니다."
+
+#: wp-includes/rest-api/class-wp-rest-server.php:972
+msgid "No route was found matching the URL and request method"
+msgstr "URL과 요청 방법이 일치하는 루트를 찾을 수 없습니다"
+
+#: wp-includes/rest-api/class-wp-rest-server.php:851
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "The handler for the route is invalid"
 msgstr "루트 핸들러가 유효하지 않습니다"
 
@@ -3802,7 +4180,11 @@ msgstr "죄송합니다, 할당된 공간을 모두 사용했습니다."
 msgid "Sorry, you are not allowed to moderate or edit this comment."
 msgstr "죄송합니다, 이 댓글을 수정하거나 검토할 권한이 없습니다."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:796
+=======
+#: wp-includes/class-wp-customize-widgets.php:782
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:63
 msgid "Reorder widgets"
 msgstr "위젯 재정렬"
@@ -3838,11 +4220,19 @@ msgid "Sorry, you are not allowed to edit theme options on this site."
 msgstr "이 사이트에서 테마 옵션을 수정할 권한을 갖고 있지 않습니다."
 
 #: wp-includes/class-wp-customize-nav-menus.php:972
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:845
 msgid "Clear Results"
 msgstr "결과 제거"
 
 #: wp-includes/class-wp-editor.php:1282
+=======
+#: wp-includes/class-wp-customize-widgets.php:831
+msgid "Clear Results"
+msgstr "결과 제거"
+
+#: wp-includes/class-wp-editor.php:1265
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "The following formatting shortcuts are replaced when pressing Enter. Press Escape or the Undo button to undo."
 msgstr "다음 포매팅 숏컷은 엔터키를 누르면 바뀔 것입니다. 되돌리려면 ESC 키를 누르거나 되돌리기 버튼을 눌러주세요."
 
@@ -3978,7 +4368,11 @@ msgstr "사이트 아이덴티티"
 msgid "Add to menu: %1$s (%2$s)"
 msgstr "메뉴 추가: %1$s (종류:%2$s)"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1280
+=======
+#: wp-includes/class-wp-editor.php:1263
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "When starting a new paragraph with one of these formatting shortcuts followed by a space, the formatting will be applied automatically. Press Backspace or Escape to undo."
 msgstr "공백 다음에 입력한 포매팅 숏컷으로 시작하여 새로운 문단을 작성하는 경우, 포맷은 자동적으로 반영됩니다. 되돌리려면 백스페이스 키나 ESC키를 눌러주세요."
 
@@ -4044,7 +4438,11 @@ msgstr "테마 미리보기"
 msgid "%1$s (%2$d)"
 msgstr "%1$s (%2$d)"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1016
+=======
+#: wp-includes/class-wp-editor.php:999
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "HTML tag"
 msgid "Preformatted"
 msgstr "Preformatted"
@@ -4065,12 +4463,20 @@ msgid "Menus can be displayed in locations defined by your theme or in <a href=\
 msgstr "메뉴는 테마에서 지정한 위치나 &#8220;Custom Menu&#8221; 위젯을 이용하여 만든 <a href=\"%s\">위젯영역</a> 에 표시할 수 있습니다. "
 
 #: wp-includes/class-wp-customize-nav-menus.php:436
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:794
+=======
+#: wp-includes/class-wp-customize-widgets.php:780
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Reorder mode enabled"
 msgstr "재배치 모드 활성화됨"
 
 #: wp-includes/class-wp-customize-nav-menus.php:437
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:795
+=======
+#: wp-includes/class-wp-customize-widgets.php:781
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Reorder mode closed"
 msgstr "재배치 모드 종료됨"
 
@@ -4243,9 +4649,13 @@ msgctxt "Comma-separated list of words to texturize in your language"
 msgid "'tain't,'twere,'twas,'tis,'twill,'til,'bout,'nuff,'round,'cause,'em"
 msgstr "'tain't,'twere,'twas,'tis,'twill,'til,'bout,'nuff,'round,'cause,'em"
 
+<<<<<<< HEAD
 #: wp-includes/default-widgets.php:195
 #: wp-includes/widgets/class-wp-widget-text.php:370
 #: wp-includes/widgets/class-wp-widget-text.php:431
+=======
+#: wp-includes/widgets/class-wp-widget-text.php:198
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Content:"
 msgstr "컨텐트:"
 
@@ -4253,6 +4663,7 @@ msgstr "컨텐트:"
 msgid "Allow link notifications from other blogs (pingbacks and trackbacks) on new articles"
 msgstr "새로운 글에 다른 블로그에서 오는 링크알림(핑백이나 트랙백)을 허용"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1263
 msgid "Default shortcuts,"
 msgstr "기본 숏컷"
@@ -4278,6 +4689,33 @@ msgid "Ctrl + letter:"
 msgstr "Ctrl + 문자:"
 
 #: wp-includes/class-wp-editor.php:1264
+=======
+#: wp-includes/class-wp-editor.php:1246
+msgid "Default shortcuts,"
+msgstr "기본 숏컷"
+
+#: wp-includes/class-wp-editor.php:1249
+msgid "Inline toolbar (when an image, link or preview is selected)"
+msgstr "인라인 툴바(이미지, 링크, 미리보기가 선택되었을 때)"
+
+#: wp-includes/class-wp-editor.php:1253
+msgid "Ctrl + Alt + letter:"
+msgstr "Ctrl + Alt + 문자:"
+
+#: wp-includes/class-wp-editor.php:1254
+msgid "Shift + Alt + letter:"
+msgstr "Shift + Alt + 문자:"
+
+#: wp-includes/class-wp-editor.php:1255
+msgid "Cmd + letter:"
+msgstr "Cmd + 문자:"
+
+#: wp-includes/class-wp-editor.php:1256
+msgid "Ctrl + letter:"
+msgstr "Ctrl + 문자:"
+
+#: wp-includes/class-wp-editor.php:1247
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Additional shortcuts,"
 msgstr "추가 숏컷,"
 
@@ -4296,7 +4734,11 @@ msgid "Add to Menu"
 msgstr "메뉴에 추가"
 
 #: wp-includes/class-wp-customize-nav-menus.php:968
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:846
+=======
+#: wp-includes/class-wp-customize-widgets.php:832
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "The search results will be updated as you type."
 msgstr "검색 결과는 입력한 대로 업데이트 됩니다."
 
@@ -4341,7 +4783,11 @@ msgstr "메뉴 위치"
 #: wp-includes/class-wp-customize-nav-menus.php:428
 #: wp-includes/class-wp-customize-nav-menus.php:958
 #: wp-includes/class-wp-customize-section.php:246
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:836
+=======
+#: wp-includes/class-wp-customize-widgets.php:822
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Customizing &#9656; %s"
 msgstr "사용자 정의중 &#9656; %s"
 
@@ -4471,7 +4917,11 @@ msgstr "링크 대상과 관계 (XFN)"
 msgid "CSS Classes"
 msgstr "CSS 클래스"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1701
+=======
+#: wp-includes/class-wp-editor.php:1684
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:105
 #: wp-includes/media-template.php:1008
 #: wp-includes/widgets/class-wp-widget-media-image.php:138
@@ -4572,7 +5022,11 @@ msgid "Your theme supports %s menu. Select which menu appears in each location."
 msgid_plural "Your theme supports %s menus. Select which menu appears in each location."
 msgstr[0] "사용중인 테마가 %s개의 메뉴를 지원합니다. 각각의 메뉴위치에 어떤 메뉴가 보여질지 선택하세요."
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2975
+=======
+#: wp-includes/theme.php:2971
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Customizer"
 msgstr "사용자 정의 하기"
 
@@ -4624,7 +5078,11 @@ msgstr "지금 설치하기"
 msgid "Update completed successfully."
 msgstr "업데이트 성공."
 
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:3489
+=======
+#: wp-includes/taxonomy.php:3486
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Could not split shared term."
 msgstr "공유된 텀은 분리할 수 없습니다."
 
@@ -4701,7 +5159,11 @@ msgstr ""
 "\n"
 "--팀 @ SITE_NAME"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3502
+=======
+#: wp-includes/media.php:3498
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Drag and drop to reorder media files."
 msgstr "끌어놓기로 미디어 파일을 정렬하세요."
 
@@ -4767,7 +5229,11 @@ msgid "1 Comment<span class=\"screen-reader-text\"> on %s</span>"
 msgstr "<span class=\"screen-reader-text\">%s에</span> 댓글 1개"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1067
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1696 wp-includes/media-template.php:820
+=======
+#: wp-includes/class-wp-editor.php:1679 wp-includes/media-template.php:820
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Link Text"
 msgstr "링크 텍스트"
 
@@ -4805,11 +5271,16 @@ msgstr "실시간 미리보기"
 msgid "No categories found."
 msgstr "카테고리를 찾을 수 없습니다."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1251 wp-includes/script-loader.php:99
+=======
+#: wp-includes/class-wp-editor.php:1234 wp-includes/script-loader.php:99
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Distraction-free writing mode"
 msgstr "글쓰기 집중 모드"
 
 #. translators: 1: Theme support 2: hook name
+<<<<<<< HEAD
 #: wp-includes/theme.php:2423
 msgid "Theme support for %1$s should be registered before the %2$s hook."
 msgstr "%1$s의 테마 지원은 %2$s hook 이전에 등록돼야 합니다."
@@ -4843,6 +5314,41 @@ msgid "Focus shortcuts:"
 msgstr "포커스 단축키:"
 
 #: wp-includes/class-wp-editor.php:1230
+=======
+#: wp-includes/theme.php:2419
+msgid "Theme support for %1$s should be registered before the %2$s hook."
+msgstr "%1$s의 테마 지원은 %2$s hook 이전에 등록돼야 합니다."
+
+#: wp-includes/class-wp-customize-widgets.php:776
+msgid "Widget moved down"
+msgstr "위젯 아래로 이동됨"
+
+#: wp-includes/class-wp-customize-widgets.php:775
+msgid "Widget moved up"
+msgstr "위젯 위로 이동됨"
+
+#: wp-includes/class-wp-editor.php:1252
+msgid "Elements path"
+msgstr "요소 경로"
+
+#: wp-includes/class-wp-editor.php:1261
+msgid "To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons."
+msgstr "다른 버튼에 포커스를 이동하려면 탭이나 화살표 키를 사용하세요. 포커스를 편집기로 돌아가려면 Esc 키를 누르거나 버튼 중 하나를 사용하세요."
+
+#: wp-includes/class-wp-editor.php:1251
+msgid "Editor toolbar"
+msgstr "편집기 툴바"
+
+#: wp-includes/class-wp-editor.php:1250
+msgid "Editor menu (when enabled)"
+msgstr "편집기 메뉴 (활성화일 경우)"
+
+#: wp-includes/class-wp-editor.php:1248
+msgid "Focus shortcuts:"
+msgstr "포커스 단축키:"
+
+#: wp-includes/class-wp-editor.php:1213
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Rich Text Area. Press Alt-Shift-H for help."
 msgstr "리치 텍스트 에어리어. 도움말은 Alt-Shift-H 키를 누르세요"
 
@@ -4851,7 +5357,11 @@ msgstr "리치 텍스트 에어리어. 도움말은 Alt-Shift-H 키를 누르세
 msgid "The following values do not describe a valid date: month %1$s, day %2$s."
 msgstr "다음 값은유효한 날짜를 표현하고 있지 않습니다: %1$s 월 %2$s 일."
 
+<<<<<<< HEAD
 #: wp-includes/theme.php:2267
+=======
+#: wp-includes/theme.php:2263
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "You need to pass an array of types."
 msgstr "형식 어레이를 패스 해야 합니다."
 
@@ -4861,7 +5371,11 @@ msgstr "형식 어레이를 패스 해야 합니다."
 msgid "%s must set a database connection for use with escaping."
 msgstr "이스케이프를 사용하기 위해서는 %s의 데이터베이스 연결이 설정돼야 합니다."
 
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:2059
+=======
+#: wp-includes/taxonomy.php:2056
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "A term with the name provided already exists in this taxonomy."
 msgstr "해당 이름과 슬러그의 텀(term)이 이 택소노미에 이미 존재합니다."
 
@@ -4895,7 +5409,11 @@ msgstr "댓글: %s"
 msgid "URL: %s"
 msgstr "URL: %s"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3520
+=======
+#: wp-includes/media.php:3516
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "noun"
 msgid "Trash"
 msgstr "휴지통"
@@ -4982,16 +5500,25 @@ msgstr "%s에 답글 달기"
 msgid "Invalid value %1$s for %2$s. Expected value should be between %3$s and %4$s."
 msgstr "%2$s에 대한 유효하지 않은 값 %1$s. 예상된 값은 %3$s와 %4$s 사이입니다."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1203
+=======
+#: wp-includes/class-wp-editor.php:1186
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "vertical table cell alignment"
 msgid "V Align"
 msgstr "세로 정렬"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1198
+=======
+#: wp-includes/class-wp-editor.php:1181
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "horizontal table cell alignment"
 msgid "H Align"
 msgstr "가로 정렬"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1169
 msgid "Border color"
 msgstr "테두리 색상"
@@ -5001,6 +5528,17 @@ msgid "Add to Dictionary"
 msgstr "사전에 추가하기"
 
 #: wp-includes/class-wp-editor.php:1252
+=======
+#: wp-includes/class-wp-editor.php:1152
+msgid "Border color"
+msgstr "테두리 색상"
+
+#: wp-includes/class-wp-editor.php:1144
+msgid "Add to Dictionary"
+msgstr "사전에 추가하기"
+
+#: wp-includes/class-wp-editor.php:1235
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "No alignment"
 msgstr "정렬 없음"
 
@@ -5060,20 +5598,36 @@ msgstr "이미지"
 msgid "Month: %s"
 msgstr "월: %s"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1140
 msgid "No color"
 msgstr "색상 없음"
 
 #: wp-includes/class-wp-editor.php:1139
+=======
+#: wp-includes/class-wp-editor.php:1123
+msgid "No color"
+msgstr "색상 없음"
+
+#: wp-includes/class-wp-editor.php:1122
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "label for custom color"
 msgid "Custom..."
 msgstr "사용자 정의..."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1137
 msgid "Color"
 msgstr "색상"
 
 #: wp-includes/class-wp-editor.php:1138
+=======
+#: wp-includes/class-wp-editor.php:1120
+msgid "Color"
+msgstr "색상"
+
+#: wp-includes/class-wp-editor.php:1121
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Custom color"
 msgstr "사용자 정의 색상"
 
@@ -5109,7 +5663,11 @@ msgctxt "post type general name"
 msgid "Media"
 msgstr "Media"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1244
+=======
+#: wp-includes/class-wp-editor.php:1227
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE menu"
 msgid "Format"
 msgstr "Format"
@@ -5119,7 +5677,11 @@ msgctxt "add new from admin bar"
 msgid "Link"
 msgstr "링크"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1054
+=======
+#: wp-includes/class-wp-editor.php:1037
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "list style"
 msgid "Default"
 msgstr "기본"
@@ -5138,11 +5700,19 @@ msgstr "글"
 msgid "<strong>You have successfully updated WordPress!</strong> Please log back in to see what&#8217;s new."
 msgstr "<strong>WordPress를 성공적으로 업데이트하였습니다!</strong> what&#8217;s new를 보시려면 다시 로그인해주세요.."
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3527
 msgid "Trash Selected"
 msgstr "선택 항목 휴지통으로"
 
 #: wp-includes/media.php:3528
+=======
+#: wp-includes/media.php:3523
+msgid "Trash Selected"
+msgstr "선택 항목 휴지통으로"
+
+#: wp-includes/media.php:3524
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Untrash Selected"
 msgstr "선택 항목 휴지통에서 복원"
 
@@ -5150,7 +5720,11 @@ msgstr "선택 항목 휴지통에서 복원"
 msgid "Untrash"
 msgstr "휴지통에서 복원"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3524
+=======
+#: wp-includes/media.php:3520
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid ""
 "You are about to trash these items.\n"
 "  'Cancel' to stop, 'OK' to delete."
@@ -5162,6 +5736,7 @@ msgstr ""
 msgid "Press return or enter to open this panel"
 msgstr "이 패널을 열려면 리턴이나 엔터 키를 누르세요"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3525
 msgid "Bulk Select"
 msgstr "일괄 선택"
@@ -5171,6 +5746,17 @@ msgid "Cancel Selection"
 msgstr "선택 취소"
 
 #: wp-includes/media.php:3529
+=======
+#: wp-includes/media.php:3521
+msgid "Bulk Select"
+msgstr "일괄 선택"
+
+#: wp-includes/media.php:3522
+msgid "Cancel Selection"
+msgstr "선택 취소"
+
+#: wp-includes/media.php:3525
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Delete Selected"
 msgstr "선택 삭제"
 
@@ -5182,7 +5768,11 @@ msgstr "(레이블 없음)"
 
 #. translators: %s: taxonomy label, %l: list of terms formatted as per
 #. $term_template
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:3974
+=======
+#: wp-includes/taxonomy.php:3971
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%s: %l."
 msgstr "%s: %l."
 
@@ -5190,11 +5780,19 @@ msgstr "%s: %l."
 msgid "Bitrate"
 msgstr "비트레이트"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1235
 msgid "Your browser does not support direct access to the clipboard. Please use keyboard shortcuts or your browser&#8217;s edit menu instead."
 msgstr "사용 중인 브라우저가 클립보드로 직접 접근을 지원하지 않습니다. 대신 키보드 단축키를 사용하거나 브라우저 편집 메뉴를 사용하세요."
 
 #: wp-includes/class-wp-editor.php:1722
+=======
+#: wp-includes/class-wp-editor.php:1218
+msgid "Your browser does not support direct access to the clipboard. Please use keyboard shortcuts or your browser&#8217;s edit menu instead."
+msgstr "사용 중인 브라우저가 클립보드로 직접 접근을 지원하지 않습니다. 대신 키보드 단축키를 사용하거나 브라우저 편집 메뉴를 사용하세요."
+
+#: wp-includes/class-wp-editor.php:1705
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Search or use up and down arrow keys to select an item."
 msgstr "아이템을 선택하려면 검색이나 상하 방향키를 사용하세요."
 
@@ -5270,6 +5868,7 @@ msgstr "더 많은 상세 편집"
 msgid "Bitrate Mode"
 msgstr "비트레이트 모드"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3516
 msgid "All dates"
 msgstr "모든 날짜"
@@ -5287,6 +5886,25 @@ msgid "Filter by type"
 msgstr "형식으로 필터"
 
 #: wp-includes/media.php:3534
+=======
+#: wp-includes/media.php:3512
+msgid "All dates"
+msgstr "모든 날짜"
+
+#: wp-includes/media.php:3515
+msgid "Unattached"
+msgstr "첨부되지 않음"
+
+#: wp-includes/media.php:3528
+msgid "Filter by date"
+msgstr "날짜로 필터"
+
+#: wp-includes/media.php:3529
+msgid "Filter by type"
+msgstr "형식으로 필터"
+
+#: wp-includes/media.php:3530
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Search Media"
 msgstr "미디어 검색"
 
@@ -5294,7 +5912,11 @@ msgstr "미디어 검색"
 msgid "This site is no longer available."
 msgstr "이 사이트는 더 이상 가능하지 않습니다."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1250
+=======
+#: wp-includes/class-wp-editor.php:1233
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Read more..."
 msgstr "더 보기..."
 
@@ -5306,7 +5928,11 @@ msgstr "플러그인을 찾을 수 없습니다. 다른 검색을 해보세요."
 msgid "<strong>ERROR</strong>: The comment could not be saved. Please try again later."
 msgstr "<strong>에러</strong>: 댓글을 저장할 수 없습니다. 나중에 다시 해보세요."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:436
+=======
+#: wp-includes/class-wp-customize-widgets.php:422
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
 msgstr "위젯은 콘텐츠의 독립적인 영역이며 사용 중인 테마가 제공하는 위젯화 영역(일반적으로 사이드바라고 말함)에 배치할 수 있습니다."
 
@@ -5331,16 +5957,28 @@ msgstr "<strong>새 이미지 추가</strong>를 클릭한 후 원하는 대로 
 msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
 msgstr "(워드프레스가 WordPress.org에 안전한 연결을 설정할 수 없습니다. 서버 관리자와 연락하세요.)"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:1186
 msgid "Shift-click to edit this widget."
 msgstr "이 위젯을 편집하려면 Shift-클릭 하세요."
 
 #: wp-includes/class-wp-editor.php:1017
+=======
+#: wp-includes/class-wp-customize-widgets.php:1172
+msgid "Shift-click to edit this widget."
+msgstr "이 위젯을 편집하려면 Shift-클릭 하세요."
+
+#: wp-includes/class-wp-editor.php:1000
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "HTML tag"
 msgid "Address"
 msgstr "주소"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1228
+=======
+#: wp-includes/class-wp-editor.php:1211
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "If you&#8217;re looking to paste rich content from Microsoft Word, try turning this option off. The editor will clean up text pasted from Word automatically."
 msgstr "마이크로소프트 워드에서 서식이 포함된 콘텐츠를 붙여넣으려면, 이 옵션을 꺼주세요. 편집기가 워드에서 붙여넣은 텍스트의 포맷을 자동으로 제거할 것입니다."
 
@@ -5349,7 +5987,11 @@ msgstr "마이크로소프트 워드에서 서식이 포함된 콘텐츠를 붙�
 msgid "While you can crop images to your liking after clicking <strong>Add new image</strong>, your theme recommends a header size of %s pixels."
 msgstr "<strong>새로 추가</strong>를 클릭한 후 원하는 대로 이미지를 자르기 할 수 있으며 사용하는 테마는 %s 픽셀의 헤더 폭을 권장합니다."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1262
+=======
+#: wp-includes/class-wp-editor.php:1245
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Keyboard Shortcuts"
 msgstr "키보드 단축키"
 
@@ -5380,11 +6022,16 @@ msgstr "표시 설정"
 msgid "Edit Original"
 msgstr "원본 편집"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1202
+=======
+#: wp-includes/class-wp-editor.php:1185
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "table cell alignment attribute"
 msgid "None"
 msgstr "없음"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1029
 msgid "Font Family"
 msgstr "폰트 패밀리"
@@ -5394,6 +6041,17 @@ msgid "Font Sizes"
 msgstr "폰트 사이즈"
 
 #: wp-includes/class-wp-editor.php:1192
+=======
+#: wp-includes/class-wp-editor.php:1012
+msgid "Font Family"
+msgstr "폰트 패밀리"
+
+#: wp-includes/class-wp-editor.php:1013
+msgid "Font Sizes"
+msgstr "폰트 사이즈"
+
+#: wp-includes/class-wp-editor.php:1175
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Split table cell"
 msgstr "테이블 셀 분리"
 
@@ -5438,6 +6096,7 @@ msgctxt "video or audio"
 msgid "Length"
 msgstr "길이"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3573
 msgid "There has been an error cropping your image."
 msgstr "이미지를 자르는데 에러가 발생했습니다."
@@ -5467,6 +6126,37 @@ msgid "Add to Audio Playlist"
 msgstr "오디오 실행 목록에 추가"
 
 #: wp-includes/class-wp-customize-widgets.php:723
+=======
+#: wp-includes/media.php:3569
+msgid "There has been an error cropping your image."
+msgstr "이미지를 자르는데 에러가 발생했습니다."
+
+#: wp-includes/media.php:3588
+msgid "Edit Audio Playlist"
+msgstr "오디오 실행 목록 편집"
+
+#: wp-includes/media.php:3589
+msgid "&#8592; Cancel Audio Playlist"
+msgstr "&#8592; 오디오 실행 목록 취소"
+
+#: wp-includes/media.php:3590
+msgid "Insert audio playlist"
+msgstr "오디오 실행 목록 삽입"
+
+#: wp-includes/media.php:3591
+msgid "Update audio playlist"
+msgstr "오디오 실행 목록 업데이트"
+
+#: wp-includes/media.php:3592
+msgid "Add to audio playlist"
+msgstr "오디오 실행 목록에 추가"
+
+#: wp-includes/media.php:3593
+msgid "Add to Audio Playlist"
+msgstr "오디오 실행 목록에 추가"
+
+#: wp-includes/class-wp-customize-widgets.php:709
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Move widget"
 msgid "Move"
 msgstr "이동"
@@ -5475,6 +6165,7 @@ msgstr "이동"
 msgid "Set image"
 msgstr "이미지 설정"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:785
 msgid "Save and preview changes before publishing them."
 msgstr "발행하기 전에 변경사항 저장하고 미리보기."
@@ -5492,6 +6183,25 @@ msgid "Search widgets&hellip;"
 msgstr "위젯 검색&hellip;"
 
 #: wp-includes/class-wp-editor.php:1002
+=======
+#: wp-includes/class-wp-customize-widgets.php:771
+msgid "Save and preview changes before publishing them."
+msgstr "발행하기 전에 변경사항 저장하고 미리보기."
+
+#: wp-includes/class-wp-customize-widgets.php:773
+msgid "Trash widget by moving it to the inactive widgets sidebar."
+msgstr "비활성화 위젯 사이드바로 이동해서 위젯을 제거하세요."
+
+#: wp-includes/class-wp-customize-widgets.php:828
+msgid "Search Widgets"
+msgstr "위젯 검색"
+
+#: wp-includes/class-wp-customize-widgets.php:829
+msgid "Search widgets&hellip;"
+msgstr "위젯 검색&hellip;"
+
+#: wp-includes/class-wp-editor.php:985
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE"
 msgid "Headings"
 msgstr "헤딩"
@@ -5501,11 +6211,19 @@ msgctxt "auto preload"
 msgid "Auto"
 msgstr "자동"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:714
 msgid "Move to another area&hellip;"
 msgstr "다른 영역으로 이동&hellip;"
 
 #: wp-includes/media.php:3570
+=======
+#: wp-includes/class-wp-customize-widgets.php:700
+msgid "Move to another area&hellip;"
+msgstr "다른 영역으로 이동&hellip;"
+
+#: wp-includes/media.php:3566
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Cropping&hellip;"
 msgstr "자르기&hellip;"
 
@@ -5514,233 +6232,417 @@ msgstr "자르기&hellip;"
 msgid "Tracks (subtitles, captions, descriptions, chapters, or metadata)"
 msgstr "트랙 (부제, 캡션, 설명, 챕터, 또는 메타데이터)"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1000
+=======
+#: wp-includes/class-wp-editor.php:983
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE"
 msgid "Formats"
 msgstr "포맷"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1214
+=======
+#: wp-includes/class-wp-editor.php:1197
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "table cell scope attribute"
 msgid "Scope"
 msgstr "범위"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1173
+=======
+#: wp-includes/class-wp-editor.php:1156
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "table column"
 msgid "Column"
 msgstr "열"
 
 #. translators: block tags
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1011
+=======
+#: wp-includes/class-wp-editor.php:994
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE"
 msgid "Blocks"
 msgstr "블록"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1014
+=======
+#: wp-includes/class-wp-editor.php:997
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "HTML tag"
 msgid "Div"
 msgstr "Div"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1015
+=======
+#: wp-includes/class-wp-editor.php:998
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "HTML tag"
 msgid "Pre"
 msgstr "Pre"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1019
+=======
+#: wp-includes/class-wp-editor.php:1002
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "HTML elements"
 msgid "Inline"
 msgstr "인라인"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1051 wp-includes/script-loader.php:112
 msgid "Bulleted list"
 msgstr "불릿 목록"
 
 #: wp-includes/class-wp-editor.php:1053
+=======
+#: wp-includes/class-wp-editor.php:1034 wp-includes/script-loader.php:112
+msgid "Bulleted list"
+msgstr "불릿 목록"
+
+#: wp-includes/class-wp-editor.php:1036
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "list style"
 msgid "Square"
 msgstr "정사각형"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1055
+=======
+#: wp-includes/class-wp-editor.php:1038
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "list style"
 msgid "Circle"
 msgstr "원형"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1056
+=======
+#: wp-includes/class-wp-editor.php:1039
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "list style"
 msgid "Disc"
 msgstr "디스크"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1057
+=======
+#: wp-includes/class-wp-editor.php:1040
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "list style"
 msgid "Lower Greek"
 msgstr "소문자 그리스어"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1058
+=======
+#: wp-includes/class-wp-editor.php:1041
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "list style"
 msgid "Lower Alpha"
 msgstr "소문자 알파벳"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1059
+=======
+#: wp-includes/class-wp-editor.php:1042
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "list style"
 msgid "Upper Alpha"
 msgstr "대문자 알파벳"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1060
+=======
+#: wp-includes/class-wp-editor.php:1043
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "list style"
 msgid "Upper Roman"
 msgstr "대문자 로마숫자"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1061
+=======
+#: wp-includes/class-wp-editor.php:1044
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "list style"
 msgid "Lower Roman"
 msgstr "소문자 로마숫자"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1064
+=======
+#: wp-includes/class-wp-editor.php:1047
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Name of link anchor (TinyMCE)"
 msgid "Name"
 msgstr "이름"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1065
+=======
+#: wp-includes/class-wp-editor.php:1048
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Link anchor (TinyMCE)"
 msgid "Anchor"
 msgstr "앵커"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1066
+=======
+#: wp-includes/class-wp-editor.php:1049
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Link anchors (TinyMCE)"
 msgid "Anchors"
 msgstr "앵커"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1108
+=======
+#: wp-includes/class-wp-editor.php:1091
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "editor button"
 msgid "Right to left"
 msgstr "오른쪽에서 왼쪽으로"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1147
+=======
+#: wp-includes/class-wp-editor.php:1130
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "find/replace"
 msgid "Replace"
 msgstr "교체"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1148
+=======
+#: wp-includes/class-wp-editor.php:1131
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "find/replace"
 msgid "Next"
 msgstr "다음"
 
 #. translators: previous
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1150
+=======
+#: wp-includes/class-wp-editor.php:1133
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "find/replace"
 msgid "Prev"
 msgstr "이전"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1151
+=======
+#: wp-includes/class-wp-editor.php:1134
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "find/replace"
 msgid "Whole words"
 msgstr "전체 단어"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1153
+=======
+#: wp-includes/class-wp-editor.php:1136
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "find/replace"
 msgid "Replace with"
 msgstr "교체"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1154
+=======
+#: wp-includes/class-wp-editor.php:1137
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "find/replace"
 msgid "Find"
 msgstr "찾기"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1155
+=======
+#: wp-includes/class-wp-editor.php:1138
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "find/replace"
 msgid "Replace all"
 msgstr "전부 교체"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1158
+=======
+#: wp-includes/class-wp-editor.php:1141
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "spellcheck"
 msgid "Finish"
 msgstr "종료"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1159
+=======
+#: wp-includes/class-wp-editor.php:1142
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "spellcheck"
 msgid "Ignore all"
 msgstr "모두 무시"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1160
+=======
+#: wp-includes/class-wp-editor.php:1143
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "spellcheck"
 msgid "Ignore"
 msgstr "무시"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1174
+=======
+#: wp-includes/class-wp-editor.php:1157
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "table columns"
 msgid "Cols"
 msgstr "열"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1175
+=======
+#: wp-includes/class-wp-editor.php:1158
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "table cell"
 msgid "Cell"
 msgstr "셀"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1177
+=======
+#: wp-includes/class-wp-editor.php:1160
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "table header"
 msgid "Header"
 msgstr "헤더"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1178
+=======
+#: wp-includes/class-wp-editor.php:1161
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "table body"
 msgid "Body"
 msgstr "바디"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1179
+=======
+#: wp-includes/class-wp-editor.php:1162
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "table footer"
 msgid "Footer"
 msgstr "푸터"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1216
+=======
+#: wp-includes/class-wp-editor.php:1199
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE"
 msgid "Insert template"
 msgstr "템플릿 추가"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1217
+=======
+#: wp-includes/class-wp-editor.php:1200
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE"
 msgid "Templates"
 msgstr "템플릿"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1221
+=======
+#: wp-includes/class-wp-editor.php:1204
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "editor button"
 msgid "Show blocks"
 msgstr "블록 보이기"
 
 #. translators: word count
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1225
 msgid "Words: %s"
 msgstr "단어: %s"
 
 #: wp-includes/class-wp-editor.php:1238
+=======
+#: wp-includes/class-wp-editor.php:1208
+msgid "Words: %s"
+msgstr "단어: %s"
+
+#: wp-includes/class-wp-editor.php:1221
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE menu"
 msgid "Insert"
 msgstr "삽입"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1239
+=======
+#: wp-includes/class-wp-editor.php:1222
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE menu"
 msgid "File"
 msgstr "파일"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1240
+=======
+#: wp-includes/class-wp-editor.php:1223
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE menu"
 msgid "Edit"
 msgstr "편집"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1241
+=======
+#: wp-includes/class-wp-editor.php:1224
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE menu"
 msgid "Tools"
 msgstr "도구"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1242
+=======
+#: wp-includes/class-wp-editor.php:1225
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE menu"
 msgid "View"
 msgstr "보기"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1243
+=======
+#: wp-includes/class-wp-editor.php:1226
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "TinyMCE menu"
 msgid "Table"
 msgstr "테이블"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1109
+=======
+#: wp-includes/class-wp-editor.php:1092
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "editor button"
 msgid "Left to right"
 msgstr "왼쪽에서 오른쪽으로"
@@ -5749,16 +6651,26 @@ msgstr "왼쪽에서 오른쪽으로"
 msgid "Add alternate sources for maximum HTML5 playback:"
 msgstr "최적화된 HTML5 실행을 위한 대체 소스 추가:"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3559
+=======
+#: wp-includes/media.php:3555
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Image Details"
 msgstr "이미지 상세"
 
 #: wp-includes/class-wp-customize-nav-menus.php:952
 #: wp-includes/class-wp-customize-panel.php:378
 #: wp-includes/class-wp-customize-section.php:368
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:831
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:75
 #: wp-includes/media.php:3496
+=======
+#: wp-includes/class-wp-customize-widgets.php:817
+#: wp-includes/customize/class-wp-customize-nav-menus-panel.php:75
+#: wp-includes/media.php:3492
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Back"
 msgstr "돌아가기"
 
@@ -5814,6 +6726,7 @@ msgstr "포스터 이미지"
 msgid "There are no associated subtitles."
 msgstr "관련된 부제가 없습니다."
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3512
 msgid "Create a new playlist"
 msgstr "새 실행 목록 만들기"
@@ -5828,10 +6741,27 @@ msgstr "이미지 교체"
 
 #: wp-includes/media.php:3561 wp-includes/media.php:3579
 #: wp-includes/media.php:3585
+=======
+#: wp-includes/media.php:3508
+msgid "Create a new playlist"
+msgstr "새 실행 목록 만들기"
+
+#: wp-includes/media.php:3509
+msgid "Create a new video playlist"
+msgstr "새 비디오 실행 목록 만들기"
+
+#: wp-includes/media.php:3556
+msgid "Replace Image"
+msgstr "이미지 교체"
+
+#: wp-includes/media.php:3557 wp-includes/media.php:3575
+#: wp-includes/media.php:3581
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Cancel Edit"
 msgstr "편집 취소"
 
 #: wp-includes/customize/class-wp-customize-image-control.php:41
+<<<<<<< HEAD
 #: wp-includes/media.php:3565
 msgid "Choose Image"
 msgstr "이미지 선택"
@@ -5921,6 +6851,97 @@ msgid "Add to video playlist"
 msgstr "비디오 실행 목록에 추가"
 
 #: wp-includes/media.php:3607
+=======
+#: wp-includes/media.php:3561
+msgid "Choose Image"
+msgstr "이미지 선택"
+
+#: wp-includes/media.php:3562
+msgid "Select and Crop"
+msgstr "선택 & 자르기"
+
+#: wp-includes/media.php:3563
+msgid "Skip Cropping"
+msgstr "자르기 생략"
+
+#: wp-includes/media.php:3564
+msgid "Crop Image"
+msgstr "이미지 자르기"
+
+#: wp-includes/media.php:3565
+msgid "Crop your image"
+msgstr "이미지 자르기"
+
+#: wp-includes/media.php:3572
+msgid "Audio Details"
+msgstr "오디오 상세"
+
+#: wp-includes/media.php:3573
+msgid "Replace Audio"
+msgstr "오디오 교체"
+
+#: wp-includes/media.php:3574
+msgid "Add Audio Source"
+msgstr "오디오 소스 추가"
+
+#: wp-includes/media.php:3578
+msgid "Video Details"
+msgstr "비디오 상세"
+
+#: wp-includes/media.php:3579
+msgid "Replace Video"
+msgstr "비디오 교체"
+
+#: wp-includes/media.php:3580
+msgid "Add Video Source"
+msgstr "비디오 소스 추가"
+
+#: wp-includes/media.php:3582
+msgid "Select Poster Image"
+msgstr "포스터 이미지 선택"
+
+#: wp-includes/media.php:3583
+msgid "Add Subtitles"
+msgstr "부제 추가"
+
+#: wp-includes/media.php:3586
+msgid "Drag and drop to reorder tracks."
+msgstr "트랙의 순서를 재정렬하러면 끌어놓기 하세요."
+
+#: wp-includes/media.php:3587
+msgid "Create Audio Playlist"
+msgstr "자동 실행 목록 만들기"
+
+#: wp-includes/media.php:3596
+msgid "Drag and drop to reorder videos."
+msgstr "비디오 순서를 재정렬하러면 끌어놓기 하세요."
+
+#: wp-includes/media.php:3597
+msgid "Create Video Playlist"
+msgstr "비디오 실행 목록 만들기"
+
+#: wp-includes/media.php:3598
+msgid "Edit Video Playlist"
+msgstr "비디오 실행 목록 편집"
+
+#: wp-includes/media.php:3599
+msgid "&#8592; Cancel Video Playlist"
+msgstr "&#8592; 비디오 실행 목록 취소"
+
+#: wp-includes/media.php:3600
+msgid "Insert video playlist"
+msgstr "비디오 실행 목록 삽입"
+
+#: wp-includes/media.php:3601
+msgid "Update video playlist"
+msgstr "비디오 실행 목록 업데이트"
+
+#: wp-includes/media.php:3602
+msgid "Add to video playlist"
+msgstr "비디오 실행 목록에 추가"
+
+#: wp-includes/media.php:3603
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Add to Video Playlist"
 msgstr "비디오 실행 목록에 추가"
 
@@ -5936,6 +6957,7 @@ msgstr "%s의 쿼리 변수는 플레이스홀더가 있어야 합니다."
 msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
 msgstr "힌트:  비밀번호는 최소한 12자 이상을 사용해야 합니다. 강한 비밀번호를 만드려면 영문 대문자, 소문자, 숫자와 ! \" ? $ % & &amp;와 같은 특수문자를 사용하세요."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1146
 msgid "Could not find the specified string."
 msgstr "특정 스트링을 찾을 수 없습니다."
@@ -5961,6 +6983,33 @@ msgid "Alternative source"
 msgstr "대체 소스"
 
 #: wp-includes/class-wp-editor.php:1075
+=======
+#: wp-includes/class-wp-editor.php:1129
+msgid "Could not find the specified string."
+msgstr "특정 스트링을 찾을 수 없습니다."
+
+#: wp-includes/class-wp-editor.php:1192
+msgid "Column group"
+msgstr "열 그룹"
+
+#: wp-includes/class-wp-editor.php:1230
+msgid "Toolbar Toggle"
+msgstr "툴바 토글"
+
+#: wp-includes/class-wp-editor.php:1075 wp-includes/script-loader.php:111
+msgid "Insert image"
+msgstr "이미지 삽입"
+
+#: wp-includes/class-wp-editor.php:1073
+msgid "Style"
+msgstr "스타일"
+
+#: wp-includes/class-wp-editor.php:1084
+msgid "Alternative source"
+msgstr "대체 소스"
+
+#: wp-includes/class-wp-editor.php:1058
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Keywords"
 msgstr "키워드"
 
@@ -6010,7 +7059,11 @@ msgctxt "custom headers"
 msgid "Suggested"
 msgstr "제안됨"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:838
+=======
+#: wp-includes/class-wp-customize-widgets.php:824
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:61
 msgid "Add a Widget"
 msgstr "위젯 추가"
@@ -6021,20 +7074,33 @@ msgid "Reorder"
 msgstr "순서 재정렬"
 
 #: wp-includes/class-wp-customize-nav-menus.php:931
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:715
+=======
+#: wp-includes/class-wp-customize-widgets.php:701
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Move down"
 msgstr "아래로 이동"
 
 #: wp-includes/class-wp-customize-nav-menus.php:930
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:716
 msgid "Move up"
 msgstr "위로 이동"
 
 #: wp-includes/class-wp-customize-widgets.php:788
+=======
+#: wp-includes/class-wp-customize-widgets.php:702
+msgid "Move up"
+msgstr "위로 이동"
+
+#: wp-includes/class-wp-customize-widgets.php:774
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/script-loader.php:718 wp-includes/script-loader.php:742
 msgid "An error has occurred. Please reload the page and try again."
 msgstr "에러 발생. 페이지를 새로고침 하고 다시 하세요."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1033
 msgid "Align right"
 msgstr "우측 정렬"
@@ -6196,6 +7262,169 @@ msgid "Justify"
 msgstr "전체 정렬"
 
 #: wp-includes/class-wp-customize-widgets.php:722
+=======
+#: wp-includes/class-wp-editor.php:1016
+msgid "Align right"
+msgstr "우측 정렬"
+
+#: wp-includes/class-wp-editor.php:1035 wp-includes/script-loader.php:114
+msgid "Numbered list"
+msgstr "숫자 있는 목록"
+
+#: wp-includes/class-wp-editor.php:1019
+msgid "Increase indent"
+msgstr "들여쓰기 증가"
+
+#: wp-includes/class-wp-editor.php:1007
+msgid "Clear formatting"
+msgstr "포맷 제거"
+
+#: wp-includes/class-wp-editor.php:1015
+msgid "Align center"
+msgstr "중앙 정렬"
+
+#: wp-includes/class-wp-editor.php:1020
+msgid "Decrease indent"
+msgstr "들여쓰기 감소"
+
+#: wp-includes/class-wp-editor.php:1210
+msgid "Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off."
+msgstr "붙여넣기는 현재 단순 텍스트 모드입니다. 이 옵션을 토글 해서 끄기 전까지 콘텐츠는 단순 텍스트로 붙여넣게 됩니다."
+
+#: wp-includes/class-wp-editor.php:1017
+msgid "Align left"
+msgstr "좌측 정렬"
+
+#: wp-includes/class-wp-editor.php:1032
+msgid "Visual aids"
+msgstr "비주얼 도움"
+
+#: wp-includes/class-wp-editor.php:1103
+msgid "Restore last draft"
+msgstr "최근 임시글 복구"
+
+#: wp-includes/class-wp-editor.php:1090
+msgid "Special character"
+msgstr "특수 문자"
+
+#: wp-includes/class-wp-editor.php:1011
+msgid "Source code"
+msgstr "소스 코드"
+
+#: wp-includes/class-wp-editor.php:1093
+msgid "Emoticons"
+msgstr "이모티콘"
+
+#: wp-includes/class-wp-editor.php:1056
+msgid "Robots"
+msgstr "로봇"
+
+#: wp-includes/class-wp-editor.php:1059
+msgid "Encoding"
+msgstr "인코딩"
+
+#: wp-includes/class-wp-editor.php:1101
+msgid "Horizontal line"
+msgstr "수평선"
+
+#: wp-includes/class-wp-editor.php:1077
+msgid "Insert date/time"
+msgstr "날짜/시간 삽입"
+
+#: wp-includes/class-wp-editor.php:1085
+msgid "Paste your embed code below:"
+msgstr "아래에 임베드 코드를 붙여넣으세요:"
+
+#: wp-includes/class-wp-editor.php:1086
+msgid "Insert video"
+msgstr "비디오 삽입"
+
+#: wp-includes/class-wp-editor.php:1087
+msgid "Embed"
+msgstr "임베드"
+
+#: wp-includes/class-wp-editor.php:1096
+msgid "Paste as text"
+msgstr "텍스트로 붙여넣기"
+
+#: wp-includes/media-template.php:892 wp-includes/media.php:3490
+msgid "Replace"
+msgstr "교체"
+
+#: wp-includes/class-wp-editor.php:1135
+msgid "Find and replace"
+msgstr "찾기와 교체"
+
+#: wp-includes/class-wp-editor.php:1155
+msgid "Rows"
+msgstr "행"
+
+#: wp-includes/class-wp-editor.php:1195
+msgid "Cell padding"
+msgstr "셀 패딩"
+
+#: wp-includes/class-wp-editor.php:1196
+msgid "Cell spacing"
+msgstr "셀 스페이싱"
+
+#: wp-includes/class-wp-editor.php:1193
+msgid "Row type"
+msgstr "행 타입"
+
+#: wp-includes/class-wp-editor.php:1147
+msgid "Insert table"
+msgstr "테이블 삽입"
+
+#: wp-includes/class-wp-editor.php:1159
+msgid "Header cell"
+msgstr "헤더 셀"
+
+#: wp-includes/class-wp-editor.php:1194
+msgid "Cell type"
+msgstr "셀 타입"
+
+#: wp-includes/class-wp-editor.php:1191
+msgid "Row group"
+msgstr "행 그룹"
+
+#: wp-includes/class-wp-editor.php:1171
+msgid "Delete column"
+msgstr "열 삭제"
+
+#: wp-includes/class-wp-editor.php:1202
+msgid "Background color"
+msgstr "배경 색상"
+
+#: wp-includes/class-wp-editor.php:1203
+msgid "Text color"
+msgstr "텍스트 색상"
+
+#: wp-includes/class-wp-editor.php:1205
+msgid "Show invisible characters"
+msgstr "보이지 않는 글자 보이기"
+
+#: wp-includes/class-wp-editor.php:1231 wp-includes/script-loader.php:120
+msgid "Insert Read More tag"
+msgstr "더보기 태그 삽입"
+
+#: wp-includes/class-wp-editor.php:1094
+msgid "Nonbreaking space"
+msgstr "끊김없는 스페이스"
+
+#: wp-includes/class-wp-editor.php:1095
+msgid "Page break"
+msgstr "페이지 자르기"
+
+#: wp-includes/class-wp-editor.php:1139
+msgid "Match case"
+msgstr "대소문자 일치"
+
+#: wp-includes/class-wp-editor.php:1018
+msgid "Justify"
+msgstr "전체 정렬"
+
+#: wp-includes/class-wp-customize-widgets.php:708
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Select an area to move this widget into:"
 msgstr "이 위젯을 이동할 영역을 선택하세요:"
 
@@ -6203,11 +7432,19 @@ msgstr "이 위젯을 이동할 영역을 선택하세요:"
 msgid "No image set"
 msgstr "설정된 이미지 없음"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1129
 msgid "New window"
 msgstr "새 창"
 
 #: wp-includes/class-wp-editor.php:1130
+=======
+#: wp-includes/class-wp-editor.php:1112
+msgid "New window"
+msgstr "새 창"
+
+#: wp-includes/class-wp-editor.php:1113
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Text to display"
 msgstr "표시할 텍스트"
 
@@ -6247,6 +7484,13 @@ msgstr "사이트의 월별 글 보관함."
 msgid "A calendar of your site&#8217;s Posts."
 msgstr "사이트 글의 달력"
 
+<<<<<<< HEAD
+=======
+#: wp-includes/widgets/class-wp-widget-text.php:28
+msgid "Arbitrary text or HTML."
+msgstr "임의의 텍스트 또는 HTML."
+
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/widgets/class-wp-widget-categories.php:28
 msgid "A list or dropdown of categories."
 msgstr "카테고리 목록 또는 드롭다운."
@@ -6447,7 +7691,11 @@ msgid "g:i a"
 msgstr "g:i a"
 
 #. translators: localized date format, see https://secure.php.net/date
+<<<<<<< HEAD
 #: wp-includes/class-wp-locale.php:398 wp-includes/media.php:3108
+=======
+#: wp-includes/class-wp-locale.php:398 wp-includes/media.php:3104
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "F j, Y"
 msgstr "Y년 F j일"
 
@@ -6570,11 +7818,19 @@ msgstr "이 이미지에 캡션&hellip;"
 #. If there is not a word you can use in your language to avoid issues with
 #. the 		   lack of plural support here, turn it into "selected: %d" then
 #. translate it.
+<<<<<<< HEAD
 #: wp-includes/media.php:3501
 msgid "%d selected"
 msgstr "%d 선택됨"
 
 #: wp-includes/media.php:3542
+=======
+#: wp-includes/media.php:3497
+msgid "%d selected"
+msgstr "%d 선택됨"
+
+#: wp-includes/media.php:3538
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Insert from URL"
 msgstr "URL에서 삽입하기"
 
@@ -6583,6 +7839,7 @@ msgctxt "Links widget"
 msgid "Random"
 msgstr "랜덤"
 
+<<<<<<< HEAD
 #: wp-includes/media-template.php:1236 wp-includes/media.php:3517
 msgid "No items found."
 msgstr "항목을 찾을 수 없습니다."
@@ -6592,6 +7849,17 @@ msgid "Add to Gallery"
 msgstr "갤러리에 추가하기"
 
 #: wp-includes/media.php:3556
+=======
+#: wp-includes/media-template.php:1236 wp-includes/media.php:3513
+msgid "No items found."
+msgstr "항목을 찾을 수 없습니다."
+
+#: wp-includes/media.php:3551
+msgid "Add to Gallery"
+msgstr "갤러리에 추가하기"
+
+#: wp-includes/media.php:3552
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Reverse order"
 msgstr "순서 바꾸기"
 
@@ -6605,7 +7873,11 @@ msgid "Sorry, that file cannot be edited."
 msgstr "죄송합니다, 해당 파일은 편집할 수 없습니다."
 
 #: wp-includes/media-template.php:441 wp-includes/media-template.php:544
+<<<<<<< HEAD
 #: wp-includes/media.php:3530
+=======
+#: wp-includes/media.php:3526
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Delete Permanently"
 msgstr "영구적으로 삭제하기"
 
@@ -6617,7 +7889,11 @@ msgstr "업로드 제한 초과 "
 msgid "Dismiss Errors"
 msgstr "에러 무시하기"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:2921
+=======
+#: wp-includes/media.php:2917
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "No editor could be selected."
 msgstr "편집기를 선택할 수 없습니다."
 
@@ -6665,7 +7941,11 @@ msgstr "페이지에 삽입하기"
 msgid "Uploaded to this page"
 msgstr "이 페이지에 업로드 됐습니다."
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3515
+=======
+#: wp-includes/media.php:3511
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "All media items"
 msgstr "모든 미디어 아이템"
 
@@ -6678,7 +7958,11 @@ msgstr "오디오"
 msgid "Uploaded to this post"
 msgstr "이 글에 업로드된 것"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3514
+=======
+#: wp-includes/media.php:3510
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "&#8592; Return to library"
 msgstr "&#8592; 라이브러리로 돌아가기"
 
@@ -6687,7 +7971,11 @@ msgstr "&#8592; 라이브러리로 돌아가기"
 msgid "Custom URL"
 msgstr "사용자 정의 URL"
 
+<<<<<<< HEAD
 #: wp-includes/media-template.php:501 wp-includes/media.php:3539
+=======
+#: wp-includes/media-template.php:501 wp-includes/media.php:3535
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Attachment Details"
 msgstr "첨부 상세"
 
@@ -6701,7 +7989,11 @@ msgid "Columns"
 msgstr "열(컬럼)"
 
 #: wp-includes/media-template.php:696 wp-includes/media-template.php:771
+<<<<<<< HEAD
 #: wp-includes/media-template.php:945 wp-includes/media.php:3174
+=======
+#: wp-includes/media-template.php:945 wp-includes/media.php:3170
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Large"
 msgstr "최대 크기"
 
@@ -6713,11 +8005,19 @@ msgstr "첨부 표시 설정"
 msgid "Gallery Settings"
 msgstr "갤러리 설정"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3506
 msgid "Upload Images"
 msgstr "이미지 업로드"
 
 #: wp-includes/media.php:3551
+=======
+#: wp-includes/media.php:3502
+msgid "Upload Images"
+msgstr "이미지 업로드"
+
+#: wp-includes/media.php:3547
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "&#8592; Cancel Gallery"
 msgstr "&#8592; 갤러리 취소"
 
@@ -6729,11 +8029,19 @@ msgstr "워드프레스 &rsaquo; 성공"
 msgid "Drop files anywhere to upload"
 msgstr "업로드 하려면 아무 곳에나 파일을 놓으세요"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3505
 msgid "Upload Files"
 msgstr "파일 업로드"
 
 #: wp-includes/media.php:3552
+=======
+#: wp-includes/media.php:3501
+msgid "Upload Files"
+msgstr "파일 업로드"
+
+#: wp-includes/media.php:3548
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Insert gallery"
 msgstr "갤러리 삽입"
 
@@ -6741,11 +8049,19 @@ msgstr "갤러리 삽입"
 msgid "Drop files to upload"
 msgstr "업로드 하려면 파일을 놓으세요"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3509
 msgid "Media Library"
 msgstr "미디어 라이브러리"
 
 #: wp-includes/media.php:3549
+=======
+#: wp-includes/media.php:3505
+msgid "Media Library"
+msgstr "미디어 라이브러리"
+
+#: wp-includes/media.php:3545
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Create Gallery"
 msgstr "갤러리 생성하기"
 
@@ -6829,7 +8145,11 @@ msgstr "이 오디오 파일에 대한 설명&hellip;"
 msgid "Describe this media file&hellip;"
 msgstr "이 미디어 파일에 대한 설명&hellip;"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3553
+=======
+#: wp-includes/media.php:3549
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Update gallery"
 msgstr "갤러리 업데이트"
 
@@ -6888,11 +8208,19 @@ msgstr "이미지 편집기의 저장이 실패했습니다"
 msgid "View Attachment Page"
 msgstr "첨부 페이지 보기"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3510
 msgid "Insert Media"
 msgstr "미디어 삽입"
 
 #: wp-includes/media.php:3511
+=======
+#: wp-includes/media.php:3506
+msgid "Insert Media"
+msgstr "미디어 삽입"
+
+#: wp-includes/media.php:3507
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Create a new gallery"
 msgstr "새 갤러리 생성하기"
 
@@ -6900,7 +8228,11 @@ msgstr "새 갤러리 생성하기"
 msgid "Insert into post"
 msgstr "글에 삽입하기"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3554
+=======
+#: wp-includes/media.php:3550
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Add to gallery"
 msgstr "갤러리에 추가"
 
@@ -6922,7 +8254,11 @@ msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
 msgstr "%1$s %2$s"
 
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:2304
+=======
+#: wp-includes/taxonomy.php:2301
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Could not insert term relationship into the database"
 msgstr "텀(term)의 관계를 데이터베이스에 삽입할 수 없습니다."
 
@@ -7114,12 +8450,21 @@ msgid "Allowed Files"
 msgstr "허용된 파일"
 
 #: wp-includes/class-wp-customize-manager.php:3871
+<<<<<<< HEAD
 #: wp-includes/class-wp-customize-widgets.php:786
 #: wp-includes/class-wp-editor.php:1253
 #: wp-includes/customize/class-wp-customize-image-control.php:37
 #: wp-includes/customize/class-wp-customize-media-control.php:63
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:144
 #: wp-includes/media-template.php:474 wp-includes/media.php:3495
+=======
+#: wp-includes/class-wp-customize-widgets.php:772
+#: wp-includes/class-wp-editor.php:1236
+#: wp-includes/customize/class-wp-customize-image-control.php:37
+#: wp-includes/customize/class-wp-customize-media-control.php:63
+#: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:144
+#: wp-includes/media-template.php:474 wp-includes/media.php:3491
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Remove"
 msgstr "삭제"
 
@@ -7152,15 +8497,24 @@ msgstr "이 택소노미에서 텀(term)을 배정할 권한이 없습니다."
 #: wp-includes/taxonomy.php:419 wp-includes/taxonomy.php:639
 #: wp-includes/taxonomy.php:730 wp-includes/taxonomy.php:910
 #: wp-includes/taxonomy.php:1074 wp-includes/taxonomy.php:1835
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:1952 wp-includes/taxonomy.php:2215
 #: wp-includes/taxonomy.php:2358 wp-includes/taxonomy.php:2559
+=======
+#: wp-includes/taxonomy.php:1949 wp-includes/taxonomy.php:2212
+#: wp-includes/taxonomy.php:2355 wp-includes/taxonomy.php:2556
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Invalid taxonomy."
 msgstr "유효하지 않은 택소노미."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1455
 #: wp-includes/class-wp-xmlrpc-server.php:2002
 #: wp-includes/class-wp-xmlrpc-server.php:2093
+<<<<<<< HEAD
 #: wp-includes/class-wp-xmlrpc-server.php:2165 wp-includes/taxonomy.php:1967
+=======
+#: wp-includes/class-wp-xmlrpc-server.php:2165 wp-includes/taxonomy.php:1964
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Invalid term ID."
 msgstr "유효하지 않은 텀(term) ID."
 
@@ -7173,7 +8527,11 @@ msgstr "텀(term) 이름은 필수입니다."
 #: wp-includes/class-wp-xmlrpc-server.php:2026
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:405
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:511
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:1976 wp-includes/taxonomy.php:2600
+=======
+#: wp-includes/taxonomy.php:1973 wp-includes/taxonomy.php:2597
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Parent term does not exist."
 msgstr "상위 텀(term)이 존재하지 않습니다."
 
@@ -7663,7 +9021,11 @@ msgstr "모든 페이지"
 msgid "Approve and Reply"
 msgstr "승인 및 응답하기"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1125
+=======
+#: wp-includes/class-wp-editor.php:1108
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Link"
 msgstr "링크"
 
@@ -7679,7 +9041,11 @@ msgstr "글 내비게이션"
 msgid "Comments navigation"
 msgstr "댓글 탐색"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1100
+=======
+#: wp-includes/class-wp-editor.php:1083
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Poster"
 msgstr "포스터"
 
@@ -7706,11 +9072,19 @@ msgctxt "post format"
 msgid "Format"
 msgstr "글 형식"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1690
 msgid "Enter the destination URL"
 msgstr "대상 URL을 입력하세요"
 
 #: wp-includes/class-wp-editor.php:1704
+=======
+#: wp-includes/class-wp-editor.php:1673
+msgid "Enter the destination URL"
+msgstr "대상 URL을 입력하세요"
+
+#: wp-includes/class-wp-editor.php:1687
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Or link to existing content"
 msgstr "또는 기존의 컨텐츠에 링크하기"
 
@@ -7773,7 +9147,11 @@ msgstr "오디오"
 msgid "Invalid post format."
 msgstr "유효하지 않은 글 형식."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1721
+=======
+#: wp-includes/class-wp-editor.php:1704
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "No search term specified. Showing recent items."
 msgstr "지정된 검색어를 찾을 수 없습니다. 최근의 아이템을 보여줍니다."
 
@@ -8290,7 +9668,11 @@ msgstr "입력하신 워드프레스 주소는 유효한 URL이 아닙니다. �
 msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
 msgstr "입력하신 사이트 주소는 유효한 URL이 아닙니다. 유효한 URL을 입력하세요."
 
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:2056
+=======
+#: wp-includes/taxonomy.php:2053
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "A term with the name provided already exists with this parent."
 msgstr "제공한 이름이 이미 이 상위에 존재하고 있습니다."
 
@@ -8791,8 +10173,13 @@ msgstr "글 <abbr title=\"Really Simple Syndication\">RSS</abbr>"
 msgid "Calendar"
 msgstr "달력"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1259
 #: wp-includes/widgets/class-wp-widget-text.php:43
+=======
+#: wp-includes/class-wp-editor.php:1242
+#: wp-includes/widgets/class-wp-widget-text.php:35
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Text"
 msgstr "텍스트"
 
@@ -8919,7 +10306,11 @@ msgid "Page not found"
 msgstr "페이지가 없습니다."
 
 #. translators: 1: month name, 2: 4-digit year
+<<<<<<< HEAD
 #: wp-includes/general-template.php:1758 wp-includes/media.php:3428
+=======
+#: wp-includes/general-template.php:1758 wp-includes/media.php:3424
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "%1$s %2$d"
 msgstr "%2$d년 %1$s"
 
@@ -9057,6 +10448,7 @@ msgstr "금요일"
 msgid "Saturday"
 msgstr "토요일"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1115
 msgid "Print"
 msgstr "인쇄"
@@ -9213,20 +10605,190 @@ msgid "Image description"
 msgstr "이미지 설명"
 
 #: wp-includes/class-wp-editor.php:1204
+=======
+#: wp-includes/class-wp-editor.php:1098
+msgid "Print"
+msgstr "인쇄"
+
+#: wp-includes/class-wp-editor.php:1065
+msgid "Insert/edit image"
+msgstr "이미지 삽입/편집"
+
+#: wp-includes/class-wp-editor.php:1104 wp-includes/class-wp-editor.php:1110
+#: wp-includes/class-wp-editor.php:1669 wp-includes/script-loader.php:428
+msgid "Insert/edit link"
+msgstr "링크 삽입/편집"
+
+#: wp-includes/class-wp-editor.php:1164
+msgid "Insert row before"
+msgstr "앞에 줄 삽입"
+
+#: wp-includes/class-wp-editor.php:1165
+msgid "Insert row after"
+msgstr "뒤에 줄 삽입"
+
+#: wp-includes/class-wp-editor.php:1170
+msgid "Delete row"
+msgstr "줄 삭제"
+
+#: wp-includes/class-wp-editor.php:1166
+msgid "Insert column before"
+msgstr "앞에 열 삽입"
+
+#: wp-includes/class-wp-editor.php:1167
+msgid "Insert column after"
+msgstr "뒤에 열 삽입"
+
+#: wp-includes/class-wp-editor.php:1174
+msgid "Merge table cells"
+msgstr "셀 병합"
+
+#: wp-includes/class-wp-editor.php:1150
+msgid "Table row properties"
+msgstr "행 속성"
+
+#: wp-includes/class-wp-editor.php:1151
+msgid "Table cell properties"
+msgstr "열 속성"
+
+#: wp-includes/class-wp-editor.php:1149
+msgid "Table properties"
+msgstr "표 속성"
+
+#: wp-includes/class-wp-editor.php:1168
+msgid "Paste table row before"
+msgstr "앞에 행 붙여 넣기"
+
+#: wp-includes/class-wp-editor.php:1169
+msgid "Paste table row after"
+msgstr "뒤에 행 붙여 넣기"
+
+#: wp-includes/class-wp-editor.php:1172
+msgid "Cut table row"
+msgstr "행 잘라내기"
+
+#: wp-includes/class-wp-editor.php:1173
+msgid "Copy table row"
+msgstr "행 복사하기"
+
+#: wp-includes/class-wp-editor.php:1148
+msgid "Delete table"
+msgstr "표 지우기"
+
+#: wp-includes/class-wp-editor.php:1154
+msgid "Row"
+msgstr "열"
+
+#: wp-includes/class-wp-editor.php:1216 wp-includes/script-loader.php:463
+#: wp-includes/script-loader.php:574 wp-includes/script-loader.php:583
+#: wp-includes/script-loader.php:763 wp-includes/theme.php:2970
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "이 페이지에서 벗어나면 현재 수정한 것을 잃을 수 있습니다."
+
+#: wp-includes/class-wp-editor.php:1055
+msgid "Document properties"
+msgstr "문서 속성"
+
+#: wp-includes/class-wp-editor.php:995
+msgid "Paragraph"
+msgstr "문단"
+
+#: wp-includes/class-wp-editor.php:986
+msgid "Heading 1"
+msgstr "제목 1"
+
+#: wp-includes/class-wp-editor.php:987
+msgid "Heading 2"
+msgstr "제목 2"
+
+#: wp-includes/class-wp-editor.php:988
+msgid "Heading 3"
+msgstr "제목 3"
+
+#: wp-includes/class-wp-editor.php:989
+msgid "Heading 4"
+msgstr "제목 4"
+
+#: wp-includes/class-wp-editor.php:990
+msgid "Heading 5"
+msgstr "제목 5"
+
+#: wp-includes/class-wp-editor.php:991
+msgid "Heading 6"
+msgstr "제목 6"
+
+#: wp-includes/class-wp-editor.php:996 wp-includes/script-loader.php:105
+msgid "Blockquote"
+msgstr "인용"
+
+#: wp-includes/class-wp-editor.php:1010 wp-includes/script-loader.php:118
+msgid "Code"
+msgstr "코드"
+
+#: wp-includes/class-wp-editor.php:1009 wp-includes/script-loader.php:102
+msgid "Italic"
+msgstr "이탤릭"
+
+#: wp-includes/class-wp-editor.php:1003
+msgid "Underline"
+msgstr "밑줄"
+
+#: wp-includes/class-wp-editor.php:1005
+msgid "Subscript"
+msgstr "아래첨자"
+
+#: wp-includes/class-wp-editor.php:1006
+msgid "Superscript"
+msgstr "위첨자"
+
+#: wp-includes/class-wp-editor.php:1022
+msgid "Cut"
+msgstr "잘라내기"
+
+#: wp-includes/class-wp-editor.php:1023
+msgid "Copy"
+msgstr "복사"
+
+#: wp-includes/class-wp-editor.php:1024
+msgid "Paste"
+msgstr "붙여 넣기"
+
+#: wp-includes/class-wp-editor.php:982
+msgid "New document"
+msgstr "새 문서"
+
+#: wp-includes/class-wp-editor.php:1072
+msgid "Image description"
+msgstr "이미지 설명"
+
+#: wp-includes/class-wp-editor.php:1187
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/customize/class-wp-customize-background-position-control.php:46
 msgid "Top"
 msgstr "꼭대기"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1206
+=======
+#: wp-includes/class-wp-editor.php:1189
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/customize/class-wp-customize-background-position-control.php:56
 msgid "Bottom"
 msgstr "아래"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1083
 msgid "General"
 msgstr "일반"
 
 #: wp-includes/class-wp-editor.php:1087
+=======
+#: wp-includes/class-wp-editor.php:1066
+msgid "General"
+msgstr "일반"
+
+#: wp-includes/class-wp-editor.php:1070
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Constrain proportions"
 msgstr "종횡비 유지"
 
@@ -9248,11 +10810,19 @@ msgstr "배경"
 msgid "Mute"
 msgstr "조용히"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3550
 msgid "Edit Gallery"
 msgstr "갤러리 편집"
 
 #: wp-includes/class-wp-editor.php:1085
+=======
+#: wp-includes/media.php:3546
+msgid "Edit Gallery"
+msgstr "갤러리 편집"
+
+#: wp-includes/class-wp-editor.php:1068
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Source"
 msgstr "원본"
 
@@ -9261,6 +10831,7 @@ msgstr "원본"
 msgid "Link Rel"
 msgstr "링크 관계"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1275
 msgid "Action"
 msgstr "동작"
@@ -9278,6 +10849,25 @@ msgid "Remove link"
 msgstr "링크 삭제"
 
 #: wp-includes/class-wp-editor.php:1249
+=======
+#: wp-includes/class-wp-editor.php:1258
+msgid "Action"
+msgstr "동작"
+
+#: wp-includes/class-wp-editor.php:1140
+msgid "Check Spelling"
+msgstr "철자 검사하기"
+
+#: wp-includes/class-wp-editor.php:1109 wp-includes/script-loader.php:104
+msgid "Insert link"
+msgstr "링크 삽입"
+
+#: wp-includes/class-wp-editor.php:1105
+msgid "Remove link"
+msgstr "링크 삭제"
+
+#: wp-includes/class-wp-editor.php:1232
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Insert Page Break tag"
 msgstr "페이지 자름 태그 추가"
 
@@ -9472,6 +11062,7 @@ msgstr "변경사항을 저장하는데 오류가 발생했습니다."
 msgid "Remove From Bulk Edit"
 msgstr "대량 편집에서 제거"
 
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:726 wp-includes/taxonomy.php:2572
 #: wp-includes/taxonomy.php:3843
 msgid "Empty Term"
@@ -9482,6 +11073,18 @@ msgid "Could not insert term into the database"
 msgstr "데이터베이스에 용어를 추가할 수 없습니다."
 
 #: wp-includes/taxonomy.php:4045
+=======
+#: wp-includes/taxonomy.php:726 wp-includes/taxonomy.php:2569
+#: wp-includes/taxonomy.php:3840
+msgid "Empty Term"
+msgstr "빈 용어"
+
+#: wp-includes/taxonomy.php:2077
+msgid "Could not insert term into the database"
+msgstr "데이터베이스에 용어를 추가할 수 없습니다."
+
+#: wp-includes/taxonomy.php:4042
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Invalid object ID"
 msgstr "잘못된 개체 ID"
 
@@ -9596,10 +11199,13 @@ msgstr "링크 이름 보기"
 msgid "Show Link Description"
 msgstr "링크 설명 보기"
 
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-text.php:374
 msgid "Automatically add paragraphs"
 msgstr "단락을 자동으로 추가합니다."
 
+=======
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #. translators: comments widget: 1: comment author, 2: post link
 #: wp-includes/widgets/class-wp-widget-recent-comments.php:116
 msgctxt "widgets"
@@ -9784,7 +11390,11 @@ msgstr "다음 &gt;"
 msgid "&lt; Prev"
 msgstr "&lt; 이전"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1081 wp-includes/script-loader.php:267
+=======
+#: wp-includes/class-wp-editor.php:1064 wp-includes/script-loader.php:267
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/widgets/class-wp-widget-media-image.php:26
 msgid "Image"
 msgstr "이미지"
@@ -9815,7 +11425,11 @@ msgid "Saving Draft&#8230;"
 msgstr "임시 글로 저장하기&#8230;"
 
 #. translators: 1: Taxonomy term slug
+<<<<<<< HEAD
 #: wp-includes/taxonomy.php:2658
+=======
+#: wp-includes/taxonomy.php:2655
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "The slug &#8220;%s&#8221; is already in use by another term"
 msgstr "슬러그(Slug) &#8220;%s&#8221; 는 이미 다른 용어로 사용되고 있습니다."
 
@@ -9981,7 +11595,11 @@ msgstr "새 비밀번호 얻기"
 msgid "Lost your password?"
 msgstr "비밀번호를 잃어버렸나요?"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1205
+=======
+#: wp-includes/class-wp-editor.php:1188
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Middle"
 msgstr "중앙"
 
@@ -10002,6 +11620,7 @@ msgstr "사용자명만 등록합니다."
 msgid "Email&nbsp;Address:"
 msgstr "이메일&nbsp;주소:"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1274
 msgid "Letter"
 msgstr "글자"
@@ -10027,6 +11646,33 @@ msgid "Vertical space"
 msgstr "세로 공간"
 
 #: wp-includes/class-wp-editor.php:1119
+=======
+#: wp-includes/class-wp-editor.php:1257
+msgid "Letter"
+msgstr "글자"
+
+#: wp-includes/class-wp-editor.php:1004
+msgid "Strikethrough"
+msgstr "취소선"
+
+#: wp-includes/class-wp-editor.php:1008 wp-includes/script-loader.php:100
+msgid "Bold"
+msgstr "굵게"
+
+#: wp-includes/class-wp-editor.php:1074
+msgid "Dimensions"
+msgstr "크기"
+
+#: wp-includes/class-wp-editor.php:1069
+msgid "Border"
+msgstr "테두리"
+
+#: wp-includes/class-wp-editor.php:1071
+msgid "Vertical space"
+msgstr "세로 공간"
+
+#: wp-includes/class-wp-editor.php:1102
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Horizontal space"
 msgstr "가로 공간"
 
@@ -10120,11 +11766,19 @@ msgstr "금"
 msgid "Sat"
 msgstr "토"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1117 wp-includes/script-loader.php:352
 msgid "Fullscreen"
 msgstr "전체화면"
 
 #: wp-includes/class-wp-editor.php:1042
+=======
+#: wp-includes/class-wp-editor.php:1100 wp-includes/script-loader.php:352
+msgid "Fullscreen"
+msgstr "전체화면"
+
+#: wp-includes/class-wp-editor.php:1025
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Select all"
 msgstr "전체 선택"
 
@@ -10211,6 +11865,7 @@ msgstr "정말로 <a href=\"%s\">로그아웃</a> 하시려나요?"
 msgid "<strong>ERROR</strong>: The username field is empty."
 msgstr "<strong>오류</strong>: 사용자명 항목이 비었습니다."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1097
 msgid "Language"
 msgstr "언어"
@@ -10220,6 +11875,17 @@ msgid "The URL you entered seems to be an email address. Do you want to add the 
 msgstr "입력한 URL은 이메일 주소로 보입니다. 필수적인 mailto: 접두어를 추가하시겠습니까?"
 
 #: wp-includes/class-wp-editor.php:1135
+=======
+#: wp-includes/class-wp-editor.php:1080
+msgid "Language"
+msgstr "언어"
+
+#: wp-includes/class-wp-editor.php:1116
+msgid "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?"
+msgstr "입력한 URL은 이메일 주소로 보입니다. 필수적인 mailto: 접두어를 추가하시겠습니까?"
+
+#: wp-includes/class-wp-editor.php:1118
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "The URL you entered seems to be an external link. Do you want to add the required http:// prefix?"
 msgstr "입력한 URL은 외부 링크로 보입니다. 필수적인 http:// 접두어를 추가하시겠습니까?"
 
@@ -10264,7 +11930,11 @@ msgstr "설정"
 msgid "Time Format"
 msgstr "시간 표시 형식"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1194 wp-includes/media-template.php:965
+=======
+#: wp-includes/class-wp-editor.php:1177 wp-includes/media-template.php:965
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/widgets/class-wp-widget-media-image.php:78
 msgid "Height"
 msgstr "높이"
@@ -10285,7 +11955,11 @@ msgstr "웹사이트"
 msgid "Strength indicator"
 msgstr "강도 표시기"
 
+<<<<<<< HEAD
 #: wp-includes/admin-bar.php:801 wp-includes/class-wp-customize-widgets.php:435
+=======
+#: wp-includes/admin-bar.php:801 wp-includes/class-wp-customize-widgets.php:421
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/functions.php:3707
 msgid "Widgets"
 msgstr "위젯"
@@ -10326,7 +12000,11 @@ msgstr "북마크"
 msgid "Feed for all posts filed under %s"
 msgstr "%s에 속한 글의 피드"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1195 wp-includes/media-template.php:965
+=======
+#: wp-includes/class-wp-editor.php:1178 wp-includes/media-template.php:965
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/widgets/class-wp-widget-media-image.php:72
 msgid "Width"
 msgstr "폭"
@@ -10380,7 +12058,11 @@ msgstr "새 페이지 추가"
 msgid "Allow people to post comments on new articles"
 msgstr "댓글을 쓸 수 있게 합니다."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:182 wp-includes/class-wp-editor.php:1258
+=======
+#: wp-includes/class-wp-editor.php:182 wp-includes/class-wp-editor.php:1241
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Visual"
 msgstr "비주얼"
 
@@ -10483,20 +12165,31 @@ msgstr "%1$s %2$s"
 msgid "Comments are closed."
 msgstr "댓글이 닫혀있습니다."
 
+<<<<<<< HEAD
 #: wp-includes/default-widgets.php:190
+=======
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:137
 #: wp-includes/widgets/class-wp-widget-archives.php:157
 #: wp-includes/widgets/class-wp-widget-calendar.php:104
 #: wp-includes/widgets/class-wp-widget-categories.php:160
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-media.php:401
+=======
+#: wp-includes/widgets/class-wp-widget-media.php:387
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/widgets/class-wp-widget-meta.php:111
 #: wp-includes/widgets/class-wp-widget-pages.php:131
 #: wp-includes/widgets/class-wp-widget-recent-comments.php:159
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:132
 #: wp-includes/widgets/class-wp-widget-search.php:71
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:127
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-text.php:359
 #: wp-includes/widgets/class-wp-widget-text.php:392
+=======
+#: wp-includes/widgets/class-wp-widget-text.php:194
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Title:"
 msgstr "타이틀:"
 
@@ -10564,15 +12257,26 @@ msgstr "최근 업데이트됨: %s"
 msgid "Click here to cancel reply."
 msgstr "답글을 취소하려면 여기를 누르십시오."
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1078 wp-includes/theme-compat/sidebar.php:27
+=======
+#: wp-includes/class-wp-editor.php:1061 wp-includes/theme-compat/sidebar.php:27
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Author"
 msgstr "글쓴이"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1063
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1131 wp-includes/class-wp-editor.php:1692
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:91
 #: wp-includes/media-template.php:376 wp-includes/media-template.php:557
 #: wp-includes/media.php:3488
+=======
+#: wp-includes/class-wp-editor.php:1114 wp-includes/class-wp-editor.php:1675
+#: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:91
+#: wp-includes/media-template.php:376 wp-includes/media-template.php:557
+#: wp-includes/media.php:3484
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/widgets/class-wp-widget-media-image.php:107
 msgid "URL"
 msgstr "URL"
@@ -10587,6 +12291,7 @@ msgstr "아니오"
 
 #: wp-includes/class-walker-comment.php:244
 #: wp-includes/class-walker-comment.php:350
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1254
 msgid "Edit"
 msgstr "편집"
@@ -10597,6 +12302,18 @@ msgstr "되돌리기"
 
 #: wp-includes/class-wp-customize-widgets.php:784
 #: wp-includes/class-wp-editor.php:1256 wp-includes/media.php:3531
+=======
+#: wp-includes/class-wp-editor.php:1237
+msgid "Edit"
+msgstr "편집"
+
+#: wp-includes/class-wp-editor.php:1026
+msgid "Undo"
+msgstr "되돌리기"
+
+#: wp-includes/class-wp-customize-widgets.php:770
+#: wp-includes/class-wp-editor.php:1239 wp-includes/media.php:3527
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Apply"
 msgstr "적용"
 
@@ -10608,6 +12325,7 @@ msgstr "공개하기"
 msgid "Excerpt"
 msgstr "요약"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1736 wp-includes/script-loader.php:430
 msgid "Add Link"
 msgstr "링크 추가"
@@ -10621,6 +12339,21 @@ msgid "Target"
 msgstr "타겟"
 
 #: wp-includes/class-wp-editor.php:1084
+=======
+#: wp-includes/class-wp-editor.php:1719 wp-includes/script-loader.php:430
+msgid "Add Link"
+msgstr "링크 추가"
+
+#: wp-includes/class-wp-editor.php:1099
+msgid "Save"
+msgstr "저장하기"
+
+#: wp-includes/class-wp-editor.php:1111
+msgid "Target"
+msgstr "타겟"
+
+#: wp-includes/class-wp-editor.php:1067
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Advanced"
 msgstr "고급"
 
@@ -10628,7 +12361,11 @@ msgstr "고급"
 msgid "Name"
 msgstr "이름"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1077
+=======
+#: wp-includes/class-wp-editor.php:1060
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:128
 #: wp-includes/media-template.php:408 wp-includes/media-template.php:589
 msgid "Description"
@@ -10672,12 +12409,21 @@ msgstr "익명"
 msgid "RSS"
 msgstr "RSS"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1114 wp-includes/media-template.php:1247
 msgid "Preview"
 msgstr "미리보기"
 
 #: wp-includes/class-wp-editor.php:1047 wp-includes/class-wp-editor.php:1733
 #: wp-includes/media.php:3492 wp-includes/script-loader.php:415
+=======
+#: wp-includes/class-wp-editor.php:1097 wp-includes/media-template.php:1247
+msgid "Preview"
+msgstr "미리보기"
+
+#: wp-includes/class-wp-editor.php:1030 wp-includes/class-wp-editor.php:1716
+#: wp-includes/media.php:3488 wp-includes/script-loader.php:415
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/script-loader.php:465 wp-includes/script-loader.php:555
 msgid "Cancel"
 msgstr "취소"
@@ -10714,12 +12460,20 @@ msgstr "사이드바"
 msgid "Username"
 msgstr "사용자명"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1044
+=======
+#: wp-includes/class-wp-editor.php:1027
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Redo"
 msgstr "다시하기"
 
 #: wp-includes/media-template.php:694 wp-includes/media-template.php:769
+<<<<<<< HEAD
 #: wp-includes/media-template.php:943 wp-includes/media.php:3172
+=======
+#: wp-includes/media-template.php:943 wp-includes/media.php:3168
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Thumbnail"
 msgstr "작은 사진(썸네일)"
 
@@ -10727,25 +12481,41 @@ msgstr "작은 사진(썸네일)"
 msgid "The GD image library is not installed."
 msgstr "GD 이미지 라이브러리가 설치되지 않았습니다."
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3489
 msgid "Add Media"
 msgstr "미디어 추가"
 
 #: wp-includes/class-wp-editor.php:1199
+=======
+#: wp-includes/media.php:3485
+msgid "Add Media"
+msgstr "미디어 추가"
+
+#: wp-includes/class-wp-editor.php:1182
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/customize/class-wp-customize-background-position-control.php:50
 #: wp-includes/media-template.php:620 wp-includes/media-template.php:851
 #: wp-includes/media-template.php:917
 msgid "Left"
 msgstr "왼쪽"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1200
+=======
+#: wp-includes/class-wp-editor.php:1183
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/customize/class-wp-customize-background-position-control.php:51
 #: wp-includes/media-template.php:623 wp-includes/media-template.php:854
 #: wp-includes/media-template.php:920
 msgid "Center"
 msgstr "중앙"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1201
+=======
+#: wp-includes/class-wp-editor.php:1184
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/customize/class-wp-customize-background-position-control.php:52
 #: wp-includes/media-template.php:626 wp-includes/media-template.php:857
 #: wp-includes/media-template.php:923
@@ -10753,12 +12523,20 @@ msgid "Right"
 msgstr "오른쪽"
 
 #: wp-includes/media-template.php:695 wp-includes/media-template.php:770
+<<<<<<< HEAD
 #: wp-includes/media-template.php:944 wp-includes/media.php:3173
+=======
+#: wp-includes/media-template.php:944 wp-includes/media.php:3169
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Medium"
 msgstr "보통"
 
 #: wp-includes/media-template.php:697 wp-includes/media-template.php:772
+<<<<<<< HEAD
 #: wp-includes/media-template.php:946 wp-includes/media.php:3175
+=======
+#: wp-includes/media-template.php:946 wp-includes/media.php:3171
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Full Size"
 msgstr "전체 크기"
 
@@ -10768,18 +12546,30 @@ msgstr "전체 크기"
 msgid "Size"
 msgstr "크기"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1197 wp-includes/media-template.php:612
 msgid "Alignment"
 msgstr "정렬"
 
 #: wp-includes/class-wp-editor.php:1196 wp-includes/media-template.php:398
+=======
+#: wp-includes/class-wp-editor.php:1180 wp-includes/media-template.php:612
+msgid "Alignment"
+msgstr "정렬"
+
+#: wp-includes/class-wp-editor.php:1179 wp-includes/media-template.php:398
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/media-template.php:579 wp-includes/media-template.php:837
 #: wp-includes/media-template.php:902
 #: wp-includes/widgets/class-wp-widget-media-image.php:85
 msgid "Caption"
 msgstr "캡션"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1098
+=======
+#: wp-includes/class-wp-editor.php:1081
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Media"
 msgstr "미디어"
 
@@ -10787,7 +12577,11 @@ msgstr "미디어"
 msgid "Image URL"
 msgstr "이미지 URL"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1046 wp-includes/script-loader.php:554
+=======
+#: wp-includes/class-wp-editor.php:1029 wp-includes/script-loader.php:554
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "OK"
 msgstr "OK"
 
@@ -10805,13 +12599,20 @@ msgid "Add"
 msgstr "추가"
 
 #: wp-includes/script-loader.php:138 wp-includes/script-loader.php:299
+<<<<<<< HEAD
 #: wp-includes/widgets/class-wp-widget-text.php:406
 #: wp-includes/widgets/class-wp-widget-text.php:421
+=======
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Dismiss"
 msgstr "무시"
 
 #: wp-includes/admin-bar.php:875 wp-includes/admin-bar.php:876
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1708 wp-includes/media.php:3490
+=======
+#: wp-includes/class-wp-editor.php:1691 wp-includes/media.php:3486
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Search"
 msgstr "검색"
 
@@ -10823,13 +12624,21 @@ msgstr "링크"
 msgid "Uncategorized"
 msgstr "미분류"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1048 wp-includes/class-wp-editor.php:1687
+=======
+#: wp-includes/class-wp-editor.php:1031 wp-includes/class-wp-editor.php:1670
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/script-loader.php:269 wp-includes/script-loader.php:351
 #: wp-includes/script-loader.php:466 wp-includes/script-loader.php:986
 msgid "Close"
 msgstr "닫기"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3491
+=======
+#: wp-includes/media.php:3487
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Select"
 msgstr "선택"
 
@@ -10837,7 +12646,11 @@ msgstr "선택"
 msgid "Edit Media"
 msgstr "미디어 편집"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3139 wp-includes/script-loader.php:431
+=======
+#: wp-includes/media.php:3135 wp-includes/script-loader.php:431
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/script-loader.php:620
 msgid "(no title)"
 msgstr "(제목 없음)"
@@ -10911,7 +12724,11 @@ msgid "New Page"
 msgstr "새 페이지"
 
 #: wp-includes/media-template.php:330 wp-includes/media-template.php:528
+<<<<<<< HEAD
 #: wp-includes/media.php:3562
+=======
+#: wp-includes/media.php:3558
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Edit Image"
 msgstr "이미지 편집"
 
@@ -10927,7 +12744,11 @@ msgstr "카테고리 업데이트"
 msgid "All Categories"
 msgstr "모든 카테고리"
 
+<<<<<<< HEAD
 #: wp-includes/media.php:3493 wp-includes/script-loader.php:429
+=======
+#: wp-includes/media.php:3489 wp-includes/script-loader.php:429
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/script-loader.php:565 wp-includes/script-loader.php:650
 msgid "Update"
 msgstr "업데이트"
@@ -11016,7 +12837,11 @@ msgstr "글을 찾을 수 없습니다."
 msgid "Pending Review"
 msgstr "검토중"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1628
+=======
+#: wp-includes/class-wp-editor.php:1611
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Y/m/d"
 msgstr "Y-m-d"
 
@@ -11062,7 +12887,11 @@ msgstr "인증 키:"
 msgid "Visit Site"
 msgstr "사이트 방문하기"
 
+<<<<<<< HEAD
 #: wp-includes/class-wp-editor.php:1074 wp-includes/media-template.php:382
+=======
+#: wp-includes/class-wp-editor.php:1057 wp-includes/media-template.php:382
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: wp-includes/media-template.php:563 wp-includes/revision.php:34
 #: wp-includes/script-loader.php:581
 msgid "Title"
