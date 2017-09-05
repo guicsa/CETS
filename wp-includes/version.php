@@ -33,5 +33,8 @@ $required_php_version = '5.2.4';
  * @global string $required_mysql_version
  */
 $required_mysql_version = '5.0';
+<<<<<<< HEAD
+=======
 
 $wp_local_package = 'pt_BR';
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9

@@ -7,7 +7,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+<<<<<<< HEAD
+"X-Generator: GlotPress/2.3.0-alpha\n"
+=======
 "X-Generator: GlotPress/2.4.0-alpha\n"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 "Language: pt_BR\n"
 "Project-Id-Version: Themes - Twenty Seventeen\n"
 
@@ -19,26 +23,61 @@ msgstr "Twenty Seventeen dá vida ao seu site com o vídeo de cabeçalho e image
 msgid "Twenty Seventeen"
 msgstr "Twenty Seventeen"
 
+<<<<<<< HEAD
+#: template-parts/header/site-branding.php:31
+#: template-parts/navigation/navigation-top.php:20
+msgid "Scroll down to content"
+msgstr "Ir para o conteúdo"
+
+#: functions.php:150
+=======
 #: template-parts/header/site-branding.php:34
 #: template-parts/navigation/navigation-top.php:27
 msgid "Scroll down to content"
 msgstr "Ir para o conteúdo"
 
 #: functions.php:159
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Coffee"
 msgstr "Café"
 
+<<<<<<< HEAD
+#: functions.php:146
+=======
 #: functions.php:155
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Sandwich"
 msgstr "Sanduíche"
 
+<<<<<<< HEAD
+#: functions.php:142
+=======
 #: functions.php:151
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Theme starter content"
 msgid "Espresso"
 msgstr "Espresso"
 
+<<<<<<< HEAD
+#: inc/custom-header.php:117
+msgid "Pause background video"
+msgstr "Pausar vídeo de fundo"
+
+#: inc/custom-header.php:116
+msgid "Play background video"
+msgstr "Reproduzir vídeo de fundo"
+
+#: inc/template-tags.php:154
+msgid "Front Page Section %1$s Placeholder"
+msgstr "Texto da seção %1$s da página inicial"
+
+#: inc/customizer.php:80
+msgid "When the two column layout is assigned, the page title is in one column and content is in the other."
+msgstr "Quando o layout de duas colunas está ativado, o título da página será exibido em uma coluna e o conteúdo na outra."
+
+=======
 #: inc/custom-header.php:119
 msgid "Pause background video"
 msgstr "Pausar vídeo de fundo"
@@ -51,6 +90,7 @@ msgstr "Reproduzir vídeo de fundo"
 msgid "Front Page Section %1$s Placeholder"
 msgstr "Texto da seção %1$s da página inicial"
 
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: single.php:32
 msgid "Next Post"
 msgstr "Próximo post"
@@ -99,11 +139,19 @@ msgstr "Selecione páginas para serem destacadas em cada área usando os menus. 
 msgid "Front Page Section %d Content"
 msgstr "Conteúdo da seção %d da página inicial"
 
+<<<<<<< HEAD
+#: inc/customizer.php:83 inc/customizer.php:130
+msgid "Two Column"
+msgstr "Duas colunas"
+
+#: inc/customizer.php:82 inc/customizer.php:129
+=======
 #: inc/customizer.php:83 inc/customizer.php:132
 msgid "Two Column"
 msgstr "Duas colunas"
 
 #: inc/customizer.php:82 inc/customizer.php:131
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "One Column"
 msgstr "Uma coluna"
 
@@ -131,6 +179,21 @@ msgstr "Esquema de cor"
 msgid "Default Header Image"
 msgstr "Imagem padrão do cabeçalho"
 
+<<<<<<< HEAD
+#: functions.php:296
+msgid "Footer 2"
+msgstr "Rodapé 2"
+
+#: functions.php:288 functions.php:298
+msgid "Add widgets here to appear in your footer."
+msgstr "Adicione widgets aqui para serem exibidos em seu rodapé."
+
+#: functions.php:286
+msgid "Footer 1"
+msgstr "Rodapé 2"
+
+#: functions.php:230
+=======
 #: functions.php:335
 msgid "Footer 2"
 msgstr "Rodapé 2"
@@ -147,11 +210,16 @@ msgstr "Rodapé 2"
 #. by Libre Franklin, translate this to 'off'. Do not translate into your own
 #. language.
 #: functions.php:269
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Libre Franklin font: on or off"
 msgid "on"
 msgstr "ligado"
 
+<<<<<<< HEAD
+#: functions.php:60 functions.php:170
+=======
 #: functions.php:63 functions.php:183
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #: template-parts/navigation/navigation-top.php:12
 msgid "Top Menu"
 msgstr "Menu do topo"
@@ -188,17 +256,29 @@ msgstr "Anteriores"
 msgid "Next"
 msgstr "Próximo"
 
+<<<<<<< HEAD
+#: searchform.php:19
+=======
 #: searchform.php:20
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "submit button"
 msgid "Search"
 msgstr "Pesquisar"
 
+<<<<<<< HEAD
+#: searchform.php:18
+=======
 #: searchform.php:19
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "placeholder"
 msgid "Search &hellip;"
 msgstr "Pesquisar &hellip;"
 
+<<<<<<< HEAD
+#: searchform.php:16
+=======
 #: searchform.php:17
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "label"
 msgid "Search for:"
 msgstr "Pesquisar por:"
@@ -208,12 +288,21 @@ msgid "Search Results for: %s"
 msgstr "Resultados da pesquisa por: %s"
 
 #. translators: %s: Name of current post
+<<<<<<< HEAD
+#: functions.php:323 template-parts/page/content-front-page-panels.php:43
+#: template-parts/page/content-front-page.php:44
+#: template-parts/post/content-audio.php:80
+#: template-parts/post/content-gallery.php:66
+#: template-parts/post/content-image.php:56
+#: template-parts/post/content-video.php:78 template-parts/post/content.php:54
+=======
 #: functions.php:363 template-parts/page/content-front-page-panels.php:43
 #: template-parts/page/content-front-page.php:44
 #: template-parts/post/content-audio.php:83
 #: template-parts/post/content-gallery.php:70
 #: template-parts/post/content-image.php:59
 #: template-parts/post/content-video.php:82 template-parts/post/content.php:56
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr "Continue lendo<span class=\"screen-reader-text\"> \"%s\"</span>"
 
@@ -226,11 +315,25 @@ msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running
 msgstr "Twenty Seventeen requer ao menos a versão 4.7 do WordPress. Você está rodando a versão %s. PAtualize e tente novamente."
 
 #. translators: %s: Name of current post
+<<<<<<< HEAD
+#: inc/template-tags.php:117
+=======
 #: inc/template-tags.php:116
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr "Editar<span class=\"screen-reader-text\"> \"%s\"</span>"
 
 #: template-parts/page/content-page.php:25
+<<<<<<< HEAD
+#: template-parts/post/content-audio.php:85
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:83 template-parts/post/content.php:59
+msgid "Pages:"
+msgstr "Páginas"
+
+#: template-parts/navigation/navigation-top.php:13
+=======
 #: template-parts/post/content-audio.php:88
 #: template-parts/post/content-gallery.php:75
 #: template-parts/post/content-image.php:64
@@ -239,6 +342,7 @@ msgid "Pages:"
 msgstr "Páginas"
 
 #: template-parts/navigation/navigation-top.php:17
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Menu"
 msgstr "Menu"
 
@@ -246,6 +350,25 @@ msgstr "Menu"
 msgid "Skip to content"
 msgstr "Pular para o conteúdo"
 
+<<<<<<< HEAD
+#: functions.php:406
+msgid "Collapse child menu"
+msgstr "Fechar submenu"
+
+#: functions.php:405
+msgid "Expand child menu"
+msgstr "Expandir submenu"
+
+#: functions.php:278
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Adicione widgets aqui para aparecerem em sua barra lateral."
+
+#: functions.php:276
+msgid "Sidebar"
+msgstr "Lateral"
+
+#: functions.php:61 functions.php:179
+=======
 #: functions.php:446
 msgid "Collapse child menu"
 msgstr "Fechar submenu"
@@ -255,6 +378,7 @@ msgid "Expand child menu"
 msgstr "Expandir submenu"
 
 #: functions.php:64 functions.php:194
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Social Links Menu"
 msgstr "Menu de links sociais"
 
@@ -262,7 +386,11 @@ msgstr "Menu de links sociais"
 msgid "Proudly powered by %s"
 msgstr "Orgulhosamente desenvolvido com %s"
 
+<<<<<<< HEAD
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.0)  #-#-#-#-#
+=======
 #. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.3)  #-#-#-#-#
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #. Author URI of the plugin/theme
 #: template-parts/footer/site-info.php:13
 msgid "https://wordpress.org/"
@@ -316,4 +444,8 @@ msgstr "a equipe do WordPress"
 
 #. Theme URI of the plugin/theme
 msgid "https://wordpress.org/themes/twentyseventeen/"
+<<<<<<< HEAD
 msgstr "https://wordpress.org/themes/twentyseventeen/"
+=======
+msgstr "https://wordpress.org/themes/twentyseventeen/"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9

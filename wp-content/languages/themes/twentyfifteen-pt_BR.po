@@ -7,7 +7,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+<<<<<<< HEAD
+"X-Generator: GlotPress/2.3.0-alpha\n"
+=======
 "X-Generator: GlotPress/2.4.0-alpha\n"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 "Language: pt_BR\n"
 "Project-Id-Version: Themes - Twenty Fifteen\n"
 
@@ -160,18 +164,30 @@ msgstr "Menu e widgets"
 msgid "Skip to content"
 msgstr "Pular para o conteúdo"
 
+<<<<<<< HEAD
+#: functions.php:270
+msgid "collapse child menu"
+msgstr "fechar submenu"
+
+#: functions.php:269
+=======
 #: functions.php:283
 msgid "collapse child menu"
 msgstr "fechar submenu"
 
 #: functions.php:282
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "expand child menu"
 msgstr "expandir submenu"
 
 #. Translators: To add an additional character subset specific to your
 #. language, translate this to 'greek', 'cyrillic', 'devanagari' or
 #. 'vietnamese'. Do not translate into your own language.
+<<<<<<< HEAD
+#: functions.php:199
+=======
 #: functions.php:212
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
 msgid "no-subset"
 msgstr "sem subconjunto"
@@ -179,7 +195,11 @@ msgstr "sem subconjunto"
 #. Translators: If there are characters in your language that are not supported
 #. by Inconsolata, translate this to 'off'. Do not translate into your own
 #. language.
+<<<<<<< HEAD
+#: functions.php:191
+=======
 #: functions.php:204
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Inconsolata font: on or off"
 msgid "on"
 msgstr "ativa"
@@ -187,7 +207,11 @@ msgstr "ativa"
 #. Translators: If there are characters in your language that are not supported
 #. by Noto Serif, translate this to 'off'. Do not translate into your own
 #. language.
+<<<<<<< HEAD
+#: functions.php:183
+=======
 #: functions.php:196
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Noto Serif font: on or off"
 msgid "on"
 msgstr "ativa"
@@ -195,16 +219,28 @@ msgstr "ativa"
 #. Translators: If there are characters in your language that are not supported
 #. by Noto Sans, translate this to 'off'. Do not translate into your own
 #. language.
+<<<<<<< HEAD
+#: functions.php:175
+=======
 #: functions.php:188
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgctxt "Noto Sans font: on or off"
 msgid "on"
 msgstr "ativa"
 
+<<<<<<< HEAD
+#: functions.php:149
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Adicione widgets aqui para que apareçam em sua barra lateral."
+
+#: functions.php:147
+=======
 #: functions.php:162
 msgid "Add widgets here to appear in your sidebar."
 msgstr "Adicione widgets aqui para que apareçam em sua barra lateral."
 
 #: functions.php:160
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 msgid "Widget Area"
 msgstr "Área de widgets"
 
@@ -220,7 +256,11 @@ msgstr "Menu principal"
 msgid "Proudly powered by %s"
 msgstr "Orgulhosamente mantido com %s"
 
+<<<<<<< HEAD
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.6)  #-#-#-#-#
+=======
 #. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.8)  #-#-#-#-#
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 #. Author URI of the plugin/theme
 #: footer.php:25
 msgid "https://wordpress.org/"
@@ -302,4 +342,8 @@ msgstr "a equipe do WordPress"
 
 #. Theme URI of the plugin/theme
 msgid "https://wordpress.org/themes/twentyfifteen/"
+<<<<<<< HEAD
 msgstr "https://wordpress.org/themes/twentyfifteen/"
+=======
+msgstr "https://wordpress.org/themes/twentyfifteen/"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9

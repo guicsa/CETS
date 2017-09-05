@@ -2,7 +2,11 @@
 # This file is distributed under the same license as the Plugins - Jetpack by WordPress.com - Stable (latest release) package.
 msgid ""
 msgstr ""
+<<<<<<< HEAD
+"PO-Revision-Date: 2017-09-02 06:35:47+0000\n"
+=======
 "PO-Revision-Date: 2017-07-26 17:24:08+0000\n"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3845,7 +3849,11 @@ msgstr "Te rog conectează-te sau creează un cont WordPress.com pentru a încep
 
 #: _inc/jetpack-strings.php:416
 msgid "Jetpack has many traffic and engagement tools to help you get more viewers to your site and keep them there."
+<<<<<<< HEAD
+msgstr "Jetpack are multe instrumente de trafic și de angrenare pentru a te ajuta să ai mai mulți vizitatori pe situl tău și să-i ții acolo."
+=======
 msgstr "Jetpack are multe instrumente de trafic și de participare pentru a te ajuta să ai mai mulți vizitatori pe situl tău și să-i ții acolo."
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #: _inc/jetpack-strings.php:415
 msgctxt "Header. Noun: Publicize is a module of Jetpack"
@@ -7354,7 +7362,11 @@ msgstr "Protecția nu garantează un sit sigur."
 
 #: class.jetpack-debugger.php:203 modules/protect.php:171
 msgid "Dismiss this notice."
+<<<<<<< HEAD
+msgstr "Respinge această notificare."
+=======
 msgstr "Ignoră acest avertisment."
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #: modules/protect/shared-functions.php:101
 msgid "Only super admins can edit the global whitelist"

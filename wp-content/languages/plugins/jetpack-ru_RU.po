@@ -2,7 +2,11 @@
 # This file is distributed under the same license as the Plugins - Jetpack by WordPress.com - Stable (latest release) package.
 msgid ""
 msgstr ""
+<<<<<<< HEAD
+"PO-Revision-Date: 2017-09-04 14:15:20+0000\n"
+=======
 "PO-Revision-Date: 2017-05-02 18:44:31+0000\n"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1032,7 +1036,11 @@ msgstr "Ваш сайт не защищен от спама."
 
 #: _inc/jetpack-strings.php:206
 msgid "Your Antispam key is valid."
+<<<<<<< HEAD
+msgstr "Ваш антиспам ключ действителен."
+=======
 msgstr "Ваш антиспам ключ неверный."
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #: _inc/jetpack-strings.php:205
 msgid "Your site is protected from spam."
@@ -4311,7 +4319,11 @@ msgstr "Рекомендованные функции активированы."
 
 #: _inc/jetpack-strings.php:21
 msgid "Recommended features failed to activate. %(error)s"
+<<<<<<< HEAD
+msgstr "Не удалось активировать рекомендованные функции. %(error)s"
+=======
 msgstr "Не удалось активировать рекомендованные функции. %(error)d"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #: _inc/jetpack-strings.php:35
 msgid "Activating %(slug)s…"
@@ -4335,7 +4347,11 @@ msgstr "Функция %(slug)s деактивирована."
 
 #: _inc/jetpack-strings.php:30
 msgid "%(slug)s failed to deactivate. %(error)s"
+<<<<<<< HEAD
+msgstr "Не удалось деактивировать %(slug)s. %(error)s"
+=======
 msgstr "Не удалось деактивировать %(slug)s. %(error)d"
+>>>>>>> f12e8e1db156e4d9845d2da393d7cd8c83235ff9
 
 #: _inc/jetpack-strings.php:29
 msgid "Updating %(slug)s settings…"
